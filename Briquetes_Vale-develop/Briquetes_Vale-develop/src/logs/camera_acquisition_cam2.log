@@ -1,0 +1,220 @@
+2024-11-14 11:42:57,740 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-11-14 11:43:02,478 - camera_acquisition_cam2 - INFO - Câmera conectada com sucesso: rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-11-14 11:43:02,479 - camera_acquisition_cam2 - INFO - Resolução configurada: 1920.0x1080.0
+2024-11-14 11:43:02,479 - camera_acquisition_cam2 - INFO - Criando memória compartilhada com tamanho: 6220800 bytes
+2024-11-14 11:43:02,480 - camera_acquisition_cam2 - INFO - Memória compartilhada criada: cam2 (tamanho: 6220800)
+2024-11-14 11:49:34,424 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-11-14 11:49:38,908 - camera_acquisition_cam2 - INFO - Câmera conectada com sucesso: rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-11-14 11:49:38,909 - camera_acquisition_cam2 - INFO - Resolução configurada: 1920.0x1080.0
+2024-11-14 11:49:38,927 - camera_acquisition_cam2 - ERROR - Erro no loop principal: 'NoneType' object has no attribute 'buf'
+2024-11-14 11:49:43,941 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-11-14 11:49:48,618 - camera_acquisition_cam2 - INFO - Câmera conectada com sucesso: rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-11-14 11:49:48,620 - camera_acquisition_cam2 - INFO - Resolução configurada: 1920.0x1080.0
+2024-11-14 11:49:48,641 - camera_acquisition_cam2 - ERROR - Erro no loop principal: 'NoneType' object has no attribute 'buf'
+2024-11-14 11:49:53,653 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-11-14 11:49:57,963 - camera_acquisition_cam2 - INFO - Câmera conectada com sucesso: rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-11-14 11:49:57,964 - camera_acquisition_cam2 - INFO - Resolução configurada: 1920.0x1080.0
+2024-11-14 11:49:57,980 - camera_acquisition_cam2 - ERROR - Erro no loop principal: 'NoneType' object has no attribute 'buf'
+2024-11-14 11:50:02,994 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-11-14 11:50:07,897 - camera_acquisition_cam2 - INFO - Câmera conectada com sucesso: rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-11-14 11:50:07,898 - camera_acquisition_cam2 - INFO - Resolução configurada: 1920.0x1080.0
+2024-11-14 11:50:07,924 - camera_acquisition_cam2 - ERROR - Erro no loop principal: 'NoneType' object has no attribute 'buf'
+2024-11-14 11:50:12,946 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-11-14 11:51:21,278 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-11-14 11:51:25,815 - camera_acquisition_cam2 - INFO - Câmera conectada com sucesso: rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-11-14 11:51:25,815 - camera_acquisition_cam2 - INFO - Resolução configurada: 1920.0x1080.0
+2024-11-14 11:51:25,815 - camera_acquisition_cam2 - INFO - Criando memória compartilhada com tamanho: 6220800 bytes
+2024-11-14 11:51:25,816 - camera_acquisition_cam2 - INFO - Memória compartilhada criada: cam2 (tamanho: 6220800)
+2024-11-14 11:52:18,632 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-11-14 11:52:22,510 - camera_acquisition_cam2 - INFO - Câmera conectada com sucesso: rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-11-14 11:52:22,512 - camera_acquisition_cam2 - INFO - Resolução configurada: 1920.0x1080.0
+2024-11-14 11:52:22,512 - camera_acquisition_cam2 - INFO - Criando memória compartilhada com tamanho: 6220800 bytes
+2024-11-14 11:52:22,513 - camera_acquisition_cam2 - INFO - Memória compartilhada criada: cam2 (tamanho: 6220800)
+2024-11-14 11:52:29,565 - camera_acquisition_cam2 - ERROR - Erro durante aquisição: Erro ao capturar frame
+2024-11-14 11:52:34,578 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-11-14 11:53:04,675 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-11-14 11:53:09,675 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-11-14 11:53:15,799 - camera_acquisition_cam2 - INFO - Câmera conectada com sucesso: rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-11-14 11:53:15,799 - camera_acquisition_cam2 - INFO - Resolução configurada: 1920.0x1080.0
+2024-11-14 11:53:27,742 - camera_acquisition_cam2 - ERROR - Erro durante aquisição: Erro ao capturar frame
+2024-11-14 11:53:32,753 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-11-14 11:54:02,839 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-11-14 11:54:07,841 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-11-14 11:54:12,156 - camera_acquisition_cam2 - INFO - Câmera conectada com sucesso: rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-11-14 11:54:12,156 - camera_acquisition_cam2 - INFO - Resolução configurada: 1920.0x1080.0
+2024-11-14 11:55:05,140 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-11-14 11:55:10,109 - camera_acquisition_cam2 - INFO - Câmera conectada com sucesso: rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-11-14 11:55:10,109 - camera_acquisition_cam2 - INFO - Resolução configurada: 1920.0x1080.0
+2024-11-14 11:55:10,110 - camera_acquisition_cam2 - INFO - Criando memória compartilhada com tamanho: 62208 bytes
+2024-11-14 11:55:10,110 - camera_acquisition_cam2 - INFO - Memória compartilhada criada: cam2 (tamanho: 62208)
+2024-11-14 11:57:26,904 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-11-14 11:57:30,600 - camera_acquisition_cam2 - INFO - Câmera conectada com sucesso: rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-11-14 11:57:30,602 - camera_acquisition_cam2 - INFO - Resolução configurada: 640.0x480.0
+2024-11-14 11:57:30,603 - camera_acquisition_cam2 - INFO - Criando memória compartilhada com tamanho: 6220800 bytes
+2024-11-14 11:57:30,603 - camera_acquisition_cam2 - INFO - Memória compartilhada criada: cam2 (tamanho: 6220800)
+2024-11-14 11:58:58,597 - camera_acquisition_cam2 - ERROR - Erro durante aquisição: Erro ao capturar frame
+2024-11-14 11:59:03,608 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 08:26:05,995 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 08:26:36,038 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-12-06 08:26:41,039 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 08:27:11,132 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-12-06 08:27:16,134 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 08:27:46,140 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-12-06 08:27:51,142 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 08:28:21,144 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-12-06 08:28:26,146 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 08:28:56,238 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-12-06 08:29:01,239 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 08:29:31,248 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-12-06 08:29:36,249 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 08:30:06,264 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-12-06 08:30:11,265 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 08:30:41,354 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-12-06 08:30:46,355 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 08:31:16,370 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-12-06 08:31:21,371 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 08:31:51,464 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-12-06 08:31:56,465 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 08:32:26,472 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-12-06 08:32:31,474 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 08:33:01,562 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-12-06 08:33:06,563 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 08:33:36,656 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-12-06 08:33:41,657 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 08:34:11,675 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-12-06 08:34:16,676 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 08:34:46,691 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-12-06 08:34:51,692 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 08:35:21,776 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-12-06 08:35:26,778 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 08:35:56,780 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-12-06 08:36:01,781 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 08:36:31,872 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-12-06 08:36:36,872 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 08:37:06,974 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-12-06 08:37:11,974 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 08:37:42,063 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-12-06 08:37:47,064 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 08:38:17,163 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-12-06 08:38:22,164 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 08:38:52,255 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-12-06 08:38:57,255 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 08:39:27,355 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-12-06 08:39:32,356 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 08:40:02,451 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-12-06 08:40:07,452 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 08:40:37,549 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-12-06 08:40:42,550 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 08:41:12,551 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-12-06 08:41:17,551 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 08:41:47,649 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-12-06 08:41:52,650 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 08:42:22,752 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-12-06 08:42:27,753 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 08:42:57,765 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-12-06 08:43:02,765 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 08:43:32,857 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-12-06 08:43:37,858 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 08:49:45,895 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 08:50:16,014 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-12-06 08:50:21,015 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 09:09:02,205 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 09:09:32,326 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-12-06 09:09:37,327 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 09:10:07,422 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-12-06 09:10:12,423 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 09:11:04,911 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 09:11:35,030 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-12-06 09:17:53,504 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 09:18:23,528 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-12-06 09:18:28,529 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 09:18:58,626 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-12-06 09:20:15,761 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 09:20:45,808 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-12-06 09:20:50,809 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 10:16:11,209 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 10:16:41,262 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-12-06 10:16:46,264 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 10:17:16,361 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-12-06 10:17:21,362 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 10:17:51,458 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-12-06 10:17:56,459 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 10:18:26,469 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-12-06 10:18:31,471 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 10:19:01,555 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-12-06 10:19:06,557 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 10:19:36,557 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-12-06 10:19:41,558 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 10:20:11,576 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-12-06 10:20:16,577 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 10:20:46,587 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-12-06 10:20:51,588 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 10:22:30,400 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.145.77:8080/h264_ulaw.sdp
+2024-12-06 10:32:33,676 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.248.32:8080/h264_ulaw.sdp
+2024-12-06 10:32:38,089 - camera_acquisition_cam2 - INFO - Câmera conectada com sucesso: rtsp://172.19.248.32:8080/h264_ulaw.sdp
+2024-12-06 10:32:38,090 - camera_acquisition_cam2 - INFO - Resolução configurada: 1920.0x1080.0
+2024-12-06 10:32:38,090 - camera_acquisition_cam2 - INFO - Criando memória compartilhada com tamanho: 6220800 bytes
+2024-12-06 10:32:38,091 - camera_acquisition_cam2 - INFO - Memória compartilhada criada: cam2 (tamanho: 6220800)
+2024-12-06 10:37:11,461 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.248.32:8080/h264_ulaw.sdp
+2024-12-06 10:37:54,835 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.248.32:8080/h264_ulaw.sdp
+2024-12-06 10:37:58,811 - camera_acquisition_cam2 - INFO - Câmera conectada com sucesso: rtsp://172.19.248.32:8080/h264_ulaw.sdp
+2024-12-06 10:37:58,811 - camera_acquisition_cam2 - INFO - Resolução configurada: 1920.0x1080.0
+2024-12-06 10:37:58,812 - camera_acquisition_cam2 - INFO - Criando memória compartilhada com tamanho: 6220800 bytes
+2024-12-06 10:37:58,812 - camera_acquisition_cam2 - INFO - Memória compartilhada criada: cam2 (tamanho: 6220800)
+2024-12-06 10:38:20,817 - camera_acquisition_cam2 - ERROR - Erro durante aquisição: Erro ao capturar frame
+2024-12-06 10:38:25,835 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.248.32:8080/h264_ulaw.sdp
+2024-12-06 10:38:55,931 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-12-06 10:39:00,932 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.248.32:8080/h264_ulaw.sdp
+2024-12-06 10:39:06,407 - camera_acquisition_cam2 - INFO - Câmera conectada com sucesso: rtsp://172.19.248.32:8080/h264_ulaw.sdp
+2024-12-06 10:39:06,408 - camera_acquisition_cam2 - INFO - Resolução configurada: 1920.0x1080.0
+2024-12-06 10:39:51,423 - camera_acquisition_cam2 - ERROR - Erro durante aquisição: Erro ao capturar frame
+2024-12-06 10:39:56,440 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.248.32:8080/h264_ulaw.sdp
+2024-12-06 10:40:26,449 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-12-06 10:40:31,451 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.248.32:8080/h264_ulaw.sdp
+2024-12-06 10:41:01,462 - camera_acquisition_cam2 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-12-06 10:41:06,464 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.248.32:8080/h264_ulaw.sdp
+2024-12-06 10:41:12,165 - camera_acquisition_cam2 - INFO - Câmera conectada com sucesso: rtsp://172.19.248.32:8080/h264_ulaw.sdp
+2024-12-06 10:41:12,166 - camera_acquisition_cam2 - INFO - Resolução configurada: 1920.0x1080.0
+2024-12-06 10:41:35,816 - camera_acquisition_cam2 - ERROR - Erro durante aquisição: Erro ao capturar frame
+2024-12-06 10:41:40,831 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.248.32:8080/h264_ulaw.sdp
+2024-12-10 13:44:07,199 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera IP rtsp://172.19.144.63:8080/h264_ulaw.sdp
+2024-12-10 13:44:14,462 - camera_acquisition_cam2 - INFO - Câmera conectada com sucesso: rtsp://172.19.144.63:8080/h264_ulaw.sdp
+2024-12-10 13:44:14,463 - camera_acquisition_cam2 - INFO - Resolução configurada: 1920.0x1080.0
+2024-12-10 13:44:14,463 - camera_acquisition_cam2 - INFO - Criando memória compartilhada com tamanho: 6220800 bytes
+2024-12-10 13:44:14,464 - camera_acquisition_cam2 - INFO - Memória compartilhada criada: cam2 (tamanho: 6220800)
+2025-01-27 11:32:45,497 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera local 0
+2025-01-27 11:32:53,903 - camera_acquisition_cam2 - INFO - Câmera conectada com sucesso: 0
+2025-01-27 11:32:53,903 - camera_acquisition_cam2 - INFO - Resolução configurada: 1280.0x720.0
+2025-01-27 11:32:53,904 - camera_acquisition_cam2 - INFO - Criando memória compartilhada com tamanho: 6220800 bytes
+2025-01-27 11:32:53,904 - camera_acquisition_cam2 - INFO - Memória compartilhada criada: cam2 (tamanho: 6220800)
+2025-01-27 11:46:27,394 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera local 0
+2025-01-27 11:46:30,551 - camera_acquisition_cam2 - INFO - Câmera conectada com sucesso: 0
+2025-01-27 11:46:30,551 - camera_acquisition_cam2 - INFO - Resolução configurada: 1280.0x720.0
+2025-01-27 11:46:30,552 - camera_acquisition_cam2 - INFO - Criando memória compartilhada com tamanho: 6220800 bytes
+2025-01-27 11:46:30,553 - camera_acquisition_cam2 - INFO - Memória compartilhada criada: cam2 (tamanho: 6220800)
+2025-01-27 11:48:40,458 - camera_acquisition_cam2 - INFO - Encerrando aquisição de imagens...
+2025-01-27 11:49:07,508 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera local 0
+2025-01-27 11:49:09,312 - camera_acquisition_cam2 - INFO - Encerrando aquisição de imagens...
+2025-01-27 11:49:37,098 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera local 0
+2025-01-27 11:49:39,666 - camera_acquisition_cam2 - INFO - Câmera conectada com sucesso: 0
+2025-01-27 11:49:39,667 - camera_acquisition_cam2 - INFO - Resolução configurada: 1280.0x720.0
+2025-01-27 11:49:39,667 - camera_acquisition_cam2 - INFO - Criando memória compartilhada com tamanho: 6220800 bytes
+2025-01-27 11:49:39,667 - camera_acquisition_cam2 - INFO - Memória compartilhada criada: cam2 (tamanho: 6220800)
+2025-01-27 11:49:57,543 - camera_acquisition_cam2 - INFO - Encerrando aquisição de imagens...
+2025-01-27 11:55:45,083 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera local 0
+2025-01-27 11:55:47,977 - camera_acquisition_cam2 - INFO - Câmera conectada com sucesso: 0
+2025-01-27 11:55:47,977 - camera_acquisition_cam2 - INFO - Resolução configurada: 1280.0x720.0
+2025-01-27 11:55:47,977 - camera_acquisition_cam2 - INFO - Criando memória compartilhada com tamanho: 6220800 bytes
+2025-01-27 11:55:47,977 - camera_acquisition_cam2 - INFO - Memória compartilhada criada: cam2 (tamanho: 6220800)
+2025-01-27 12:00:23,712 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera local 0
+2025-01-27 12:00:26,498 - camera_acquisition_cam2 - INFO - Câmera conectada com sucesso: 0
+2025-01-27 12:00:26,508 - camera_acquisition_cam2 - INFO - Resolução configurada: 1280.0x720.0
+2025-01-27 12:00:26,508 - camera_acquisition_cam2 - INFO - Criando memória compartilhada com tamanho: 6220800 bytes
+2025-01-27 12:00:26,508 - camera_acquisition_cam2 - INFO - Memória compartilhada criada: cam2 (tamanho: 6220800)
+2025-01-27 12:00:36,806 - camera_acquisition_cam2 - INFO - Encerrando aquisição de imagens...
+2025-01-27 12:03:04,321 - camera_acquisition_cam2 - INFO - Tentando conectar à câmera local 0
+2025-01-27 12:03:07,068 - camera_acquisition_cam2 - INFO - Câmera conectada com sucesso: 0
+2025-01-27 12:03:07,069 - camera_acquisition_cam2 - INFO - Resolução configurada: 1280.0x720.0
+2025-01-27 12:03:07,069 - camera_acquisition_cam2 - INFO - Criando memória compartilhada com tamanho: 6220800 bytes
+2025-01-27 12:03:07,070 - camera_acquisition_cam2 - INFO - Memória compartilhada criada: cam2 (tamanho: 6220800)
+2025-01-27 12:03:15,249 - camera_acquisition_cam2 - INFO - Encerrando aquisição de imagens...

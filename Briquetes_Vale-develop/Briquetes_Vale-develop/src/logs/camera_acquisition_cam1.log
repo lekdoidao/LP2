@@ -1,0 +1,225 @@
+2024-11-14 11:42:53,669 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera local 0
+2024-11-14 11:42:56,207 - camera_acquisition_cam1 - INFO - Câmera conectada com sucesso: 0
+2024-11-14 11:42:56,207 - camera_acquisition_cam1 - INFO - Resolução configurada: 1280.0x720.0
+2024-11-14 11:42:56,207 - camera_acquisition_cam1 - INFO - Criando memória compartilhada com tamanho: 6220800 bytes
+2024-11-14 11:42:56,207 - camera_acquisition_cam1 - INFO - Memória compartilhada criada: cam1 (tamanho: 6220800)
+2024-11-14 11:49:14,287 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera local 0
+2024-11-14 11:49:16,361 - camera_acquisition_cam1 - INFO - Câmera conectada com sucesso: 0
+2024-11-14 11:49:16,369 - camera_acquisition_cam1 - INFO - Resolução configurada: 1280.0x720.0
+2024-11-14 11:49:17,100 - camera_acquisition_cam1 - ERROR - Erro no loop principal: 'NoneType' object has no attribute 'buf'
+2024-11-14 11:49:22,364 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera local 0
+2024-11-14 11:49:24,158 - camera_acquisition_cam1 - INFO - Câmera conectada com sucesso: 0
+2024-11-14 11:49:24,158 - camera_acquisition_cam1 - INFO - Resolução configurada: 1280.0x720.0
+2024-11-14 11:49:24,710 - camera_acquisition_cam1 - ERROR - Erro no loop principal: 'NoneType' object has no attribute 'buf'
+2024-11-14 11:49:29,981 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera local 0
+2024-11-14 11:49:31,815 - camera_acquisition_cam1 - INFO - Câmera conectada com sucesso: 0
+2024-11-14 11:49:31,815 - camera_acquisition_cam1 - INFO - Resolução configurada: 1280.0x720.0
+2024-11-14 11:49:32,366 - camera_acquisition_cam1 - ERROR - Erro no loop principal: 'NoneType' object has no attribute 'buf'
+2024-11-14 11:49:37,622 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera local 0
+2024-11-14 11:49:39,648 - camera_acquisition_cam1 - INFO - Câmera conectada com sucesso: 0
+2024-11-14 11:49:39,649 - camera_acquisition_cam1 - INFO - Resolução configurada: 1280.0x720.0
+2024-11-14 11:49:40,196 - camera_acquisition_cam1 - ERROR - Erro no loop principal: 'NoneType' object has no attribute 'buf'
+2024-11-14 11:49:45,452 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera local 0
+2024-11-14 11:49:47,339 - camera_acquisition_cam1 - INFO - Câmera conectada com sucesso: 0
+2024-11-14 11:49:47,339 - camera_acquisition_cam1 - INFO - Resolução configurada: 1280.0x720.0
+2024-11-14 11:49:47,904 - camera_acquisition_cam1 - ERROR - Erro no loop principal: 'NoneType' object has no attribute 'buf'
+2024-11-14 11:49:53,162 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera local 0
+2024-11-14 11:49:55,039 - camera_acquisition_cam1 - INFO - Câmera conectada com sucesso: 0
+2024-11-14 11:49:55,040 - camera_acquisition_cam1 - INFO - Resolução configurada: 1280.0x720.0
+2024-11-14 11:49:55,597 - camera_acquisition_cam1 - ERROR - Erro no loop principal: 'NoneType' object has no attribute 'buf'
+2024-11-14 11:50:00,860 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera local 0
+2024-11-14 11:50:02,673 - camera_acquisition_cam1 - INFO - Câmera conectada com sucesso: 0
+2024-11-14 11:50:02,673 - camera_acquisition_cam1 - INFO - Resolução configurada: 1280.0x720.0
+2024-11-14 11:50:03,225 - camera_acquisition_cam1 - ERROR - Erro no loop principal: 'NoneType' object has no attribute 'buf'
+2024-11-14 11:50:08,491 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera local 0
+2024-11-14 11:50:10,550 - camera_acquisition_cam1 - INFO - Câmera conectada com sucesso: 0
+2024-11-14 11:50:10,550 - camera_acquisition_cam1 - INFO - Resolução configurada: 1280.0x720.0
+2024-11-14 11:50:11,126 - camera_acquisition_cam1 - ERROR - Erro no loop principal: 'NoneType' object has no attribute 'buf'
+2024-11-14 11:50:16,393 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera local 0
+2024-11-14 11:50:18,438 - camera_acquisition_cam1 - INFO - Câmera conectada com sucesso: 0
+2024-11-14 11:50:18,438 - camera_acquisition_cam1 - INFO - Resolução configurada: 1280.0x720.0
+2024-11-14 11:50:19,017 - camera_acquisition_cam1 - ERROR - Erro no loop principal: 'NoneType' object has no attribute 'buf'
+2024-11-14 11:51:15,295 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera local 0
+2024-11-14 11:51:18,511 - camera_acquisition_cam1 - INFO - Câmera conectada com sucesso: 0
+2024-11-14 11:51:18,511 - camera_acquisition_cam1 - INFO - Resolução configurada: 1280.0x720.0
+2024-11-14 11:51:18,511 - camera_acquisition_cam1 - INFO - Criando memória compartilhada com tamanho: 6220800 bytes
+2024-11-14 11:51:18,512 - camera_acquisition_cam1 - INFO - Memória compartilhada criada: cam1 (tamanho: 6220800)
+2024-11-14 11:52:14,558 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera local 0
+2024-11-14 11:52:17,082 - camera_acquisition_cam1 - INFO - Câmera conectada com sucesso: 0
+2024-11-14 11:52:17,083 - camera_acquisition_cam1 - INFO - Resolução configurada: 1280.0x720.0
+2024-11-14 11:52:17,083 - camera_acquisition_cam1 - INFO - Criando memória compartilhada com tamanho: 6220800 bytes
+2024-11-14 11:52:17,083 - camera_acquisition_cam1 - INFO - Memória compartilhada criada: cam1 (tamanho: 6220800)
+2024-11-14 11:55:01,069 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera local 0
+2024-11-14 11:55:03,492 - camera_acquisition_cam1 - INFO - Câmera conectada com sucesso: 0
+2024-11-14 11:55:03,492 - camera_acquisition_cam1 - INFO - Resolução configurada: 640.0x360.0
+2024-11-14 11:55:03,493 - camera_acquisition_cam1 - INFO - Criando memória compartilhada com tamanho: 62208 bytes
+2024-11-14 11:55:03,493 - camera_acquisition_cam1 - INFO - Memória compartilhada criada: cam1 (tamanho: 62208)
+2024-11-14 11:57:22,810 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera local 0
+2024-11-14 11:57:25,354 - camera_acquisition_cam1 - INFO - Câmera conectada com sucesso: 0
+2024-11-14 11:57:25,354 - camera_acquisition_cam1 - INFO - Resolução configurada: 1280.0x720.0
+2024-11-14 11:57:25,354 - camera_acquisition_cam1 - INFO - Criando memória compartilhada com tamanho: 6220800 bytes
+2024-11-14 11:57:25,354 - camera_acquisition_cam1 - INFO - Memória compartilhada criada: cam1 (tamanho: 6220800)
+2024-12-06 08:25:45,349 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera local 0
+2024-12-06 08:26:07,515 - camera_acquisition_cam1 - INFO - Câmera conectada com sucesso: 0
+2024-12-06 08:26:07,516 - camera_acquisition_cam1 - INFO - Resolução configurada: 1280.0x720.0
+2024-12-06 08:26:07,516 - camera_acquisition_cam1 - INFO - Criando memória compartilhada com tamanho: 6220800 bytes
+2024-12-06 08:26:07,516 - camera_acquisition_cam1 - INFO - Memória compartilhada criada: cam1 (tamanho: 6220800)
+2024-12-06 08:26:17,519 - camera_acquisition_cam1 - ERROR - Erro durante aquisição: Erro ao capturar frame
+2024-12-06 08:26:22,787 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera local 0
+2024-12-06 08:26:25,138 - camera_acquisition_cam1 - INFO - Câmera conectada com sucesso: 0
+2024-12-06 08:26:25,138 - camera_acquisition_cam1 - INFO - Resolução configurada: 1280.0x720.0
+2024-12-06 08:48:53,440 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera local 0
+2024-12-06 08:48:56,109 - camera_acquisition_cam1 - INFO - Câmera conectada com sucesso: 0
+2024-12-06 08:48:56,109 - camera_acquisition_cam1 - INFO - Resolução configurada: 1280.0x720.0
+2024-12-06 08:48:56,110 - camera_acquisition_cam1 - INFO - Criando memória compartilhada com tamanho: 6220800 bytes
+2024-12-06 08:48:56,110 - camera_acquisition_cam1 - INFO - Memória compartilhada criada: cam1 (tamanho: 6220800)
+2024-12-06 08:49:40,064 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera local 0
+2024-12-06 08:49:42,707 - camera_acquisition_cam1 - INFO - Câmera conectada com sucesso: 0
+2024-12-06 08:49:42,707 - camera_acquisition_cam1 - INFO - Resolução configurada: 1280.0x720.0
+2024-12-06 08:49:42,707 - camera_acquisition_cam1 - INFO - Criando memória compartilhada com tamanho: 6220800 bytes
+2024-12-06 08:49:42,707 - camera_acquisition_cam1 - INFO - Memória compartilhada criada: cam1 (tamanho: 6220800)
+2024-12-06 09:08:55,526 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera local 0
+2024-12-06 09:08:58,041 - camera_acquisition_cam1 - INFO - Câmera conectada com sucesso: 0
+2024-12-06 09:08:58,042 - camera_acquisition_cam1 - INFO - Resolução configurada: 1280.0x720.0
+2024-12-06 09:08:58,042 - camera_acquisition_cam1 - INFO - Criando memória compartilhada com tamanho: 6220800 bytes
+2024-12-06 09:08:58,042 - camera_acquisition_cam1 - INFO - Memória compartilhada criada: cam1 (tamanho: 6220800)
+2024-12-06 09:10:58,970 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera local 0
+2024-12-06 09:11:01,619 - camera_acquisition_cam1 - INFO - Câmera conectada com sucesso: 0
+2024-12-06 09:11:01,620 - camera_acquisition_cam1 - INFO - Resolução configurada: 1280.0x720.0
+2024-12-06 09:11:01,620 - camera_acquisition_cam1 - INFO - Criando memória compartilhada com tamanho: 6220800 bytes
+2024-12-06 09:11:01,620 - camera_acquisition_cam1 - INFO - Memória compartilhada criada: cam1 (tamanho: 6220800)
+2024-12-06 09:17:49,492 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera local 0
+2024-12-06 09:17:52,001 - camera_acquisition_cam1 - INFO - Câmera conectada com sucesso: 0
+2024-12-06 09:17:52,002 - camera_acquisition_cam1 - INFO - Resolução configurada: 1280.0x720.0
+2024-12-06 09:17:52,002 - camera_acquisition_cam1 - INFO - Criando memória compartilhada com tamanho: 6220800 bytes
+2024-12-06 09:17:52,002 - camera_acquisition_cam1 - INFO - Memória compartilhada criada: cam1 (tamanho: 6220800)
+2024-12-06 09:20:09,878 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera local 0
+2024-12-06 09:20:12,383 - camera_acquisition_cam1 - INFO - Câmera conectada com sucesso: 0
+2024-12-06 09:20:12,383 - camera_acquisition_cam1 - INFO - Resolução configurada: 1280.0x720.0
+2024-12-06 09:20:12,384 - camera_acquisition_cam1 - INFO - Criando memória compartilhada com tamanho: 6220800 bytes
+2024-12-06 09:20:12,384 - camera_acquisition_cam1 - INFO - Memória compartilhada criada: cam1 (tamanho: 6220800)
+2024-12-06 10:16:04,947 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera local 0
+2024-12-06 10:16:07,676 - camera_acquisition_cam1 - INFO - Câmera conectada com sucesso: 0
+2024-12-06 10:16:07,676 - camera_acquisition_cam1 - INFO - Resolução configurada: 1280.0x720.0
+2024-12-06 10:16:07,677 - camera_acquisition_cam1 - INFO - Criando memória compartilhada com tamanho: 6220800 bytes
+2024-12-06 10:16:07,677 - camera_acquisition_cam1 - INFO - Memória compartilhada criada: cam1 (tamanho: 6220800)
+2024-12-06 10:22:05,580 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera local 0
+2024-12-06 10:22:08,268 - camera_acquisition_cam1 - INFO - Câmera conectada com sucesso: 0
+2024-12-06 10:22:08,268 - camera_acquisition_cam1 - INFO - Resolução configurada: 1280.0x720.0
+2024-12-06 10:22:08,268 - camera_acquisition_cam1 - INFO - Criando memória compartilhada com tamanho: 6220800 bytes
+2024-12-06 10:22:08,268 - camera_acquisition_cam1 - INFO - Memória compartilhada criada: cam1 (tamanho: 6220800)
+2024-12-06 10:22:24,123 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera local 0
+2024-12-06 10:22:26,800 - camera_acquisition_cam1 - INFO - Câmera conectada com sucesso: 0
+2024-12-06 10:22:26,801 - camera_acquisition_cam1 - INFO - Resolução configurada: 1280.0x720.0
+2024-12-06 10:22:26,801 - camera_acquisition_cam1 - INFO - Criando memória compartilhada com tamanho: 6220800 bytes
+2024-12-06 10:22:26,801 - camera_acquisition_cam1 - INFO - Memória compartilhada criada: cam1 (tamanho: 6220800)
+2024-12-06 10:22:46,786 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera local 0
+2024-12-06 10:22:49,330 - camera_acquisition_cam1 - INFO - Câmera conectada com sucesso: 0
+2024-12-06 10:22:49,330 - camera_acquisition_cam1 - INFO - Resolução configurada: 1280.0x720.0
+2024-12-06 10:22:49,330 - camera_acquisition_cam1 - INFO - Criando memória compartilhada com tamanho: 6220800 bytes
+2024-12-06 10:22:49,330 - camera_acquisition_cam1 - INFO - Memória compartilhada criada: cam1 (tamanho: 6220800)
+2024-12-06 10:25:05,038 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera local 0
+2024-12-06 10:25:07,696 - camera_acquisition_cam1 - INFO - Câmera conectada com sucesso: 0
+2024-12-06 10:25:07,697 - camera_acquisition_cam1 - INFO - Resolução configurada: 1280.0x720.0
+2024-12-06 10:25:07,697 - camera_acquisition_cam1 - INFO - Criando memória compartilhada com tamanho: 6220800 bytes
+2024-12-06 10:25:07,697 - camera_acquisition_cam1 - INFO - Memória compartilhada criada: cam1 (tamanho: 6220800)
+2024-12-06 10:26:28,091 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera local 0
+2024-12-06 10:26:30,730 - camera_acquisition_cam1 - INFO - Câmera conectada com sucesso: 0
+2024-12-06 10:26:30,730 - camera_acquisition_cam1 - INFO - Resolução configurada: 1280.0x720.0
+2024-12-06 10:26:30,730 - camera_acquisition_cam1 - INFO - Criando memória compartilhada com tamanho: 6220800 bytes
+2024-12-06 10:26:30,731 - camera_acquisition_cam1 - INFO - Memória compartilhada criada: cam1 (tamanho: 6220800)
+2024-12-06 10:27:55,563 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera local 0
+2024-12-06 10:27:58,185 - camera_acquisition_cam1 - INFO - Câmera conectada com sucesso: 0
+2024-12-06 10:27:58,185 - camera_acquisition_cam1 - INFO - Resolução configurada: 1280.0x720.0
+2024-12-06 10:27:58,185 - camera_acquisition_cam1 - INFO - Criando memória compartilhada com tamanho: 6220800 bytes
+2024-12-06 10:27:58,185 - camera_acquisition_cam1 - INFO - Memória compartilhada criada: cam1 (tamanho: 6220800)
+2024-12-06 10:28:27,193 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera local 0
+2024-12-06 10:28:29,643 - camera_acquisition_cam1 - INFO - Câmera conectada com sucesso: 0
+2024-12-06 10:28:29,644 - camera_acquisition_cam1 - INFO - Resolução configurada: 1280.0x720.0
+2024-12-06 10:28:29,644 - camera_acquisition_cam1 - INFO - Criando memória compartilhada com tamanho: 6220800 bytes
+2024-12-06 10:28:29,644 - camera_acquisition_cam1 - INFO - Memória compartilhada criada: cam1 (tamanho: 6220800)
+2024-12-06 10:32:29,600 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera local 0
+2024-12-06 10:32:32,136 - camera_acquisition_cam1 - INFO - Câmera conectada com sucesso: 0
+2024-12-06 10:32:32,137 - camera_acquisition_cam1 - INFO - Resolução configurada: 1280.0x720.0
+2024-12-06 10:32:32,137 - camera_acquisition_cam1 - INFO - Criando memória compartilhada com tamanho: 6220800 bytes
+2024-12-06 10:32:32,137 - camera_acquisition_cam1 - INFO - Memória compartilhada criada: cam1 (tamanho: 6220800)
+2024-12-06 10:36:51,468 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera local 0
+2024-12-06 10:36:54,008 - camera_acquisition_cam1 - INFO - Câmera conectada com sucesso: 0
+2024-12-06 10:36:54,009 - camera_acquisition_cam1 - INFO - Resolução configurada: 1280.0x720.0
+2024-12-06 10:36:54,009 - camera_acquisition_cam1 - INFO - Criando memória compartilhada com tamanho: 6220800 bytes
+2024-12-06 10:36:54,009 - camera_acquisition_cam1 - INFO - Memória compartilhada criada: cam1 (tamanho: 6220800)
+2024-12-06 10:37:48,794 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera local 0
+2024-12-06 10:37:51,304 - camera_acquisition_cam1 - INFO - Câmera conectada com sucesso: 0
+2024-12-06 10:37:51,305 - camera_acquisition_cam1 - INFO - Resolução configurada: 1280.0x720.0
+2024-12-06 10:37:51,305 - camera_acquisition_cam1 - INFO - Criando memória compartilhada com tamanho: 6220800 bytes
+2024-12-06 10:37:51,305 - camera_acquisition_cam1 - INFO - Memória compartilhada criada: cam1 (tamanho: 6220800)
+2024-12-10 13:43:46,611 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera local 0
+2024-12-10 13:44:09,840 - camera_acquisition_cam1 - INFO - Câmera conectada com sucesso: 0
+2024-12-10 13:44:09,841 - camera_acquisition_cam1 - INFO - Resolução configurada: 1280.0x720.0
+2024-12-10 13:44:09,841 - camera_acquisition_cam1 - INFO - Criando memória compartilhada com tamanho: 6220800 bytes
+2024-12-10 13:44:09,841 - camera_acquisition_cam1 - INFO - Memória compartilhada criada: cam1 (tamanho: 6220800)
+2024-12-10 13:44:19,844 - camera_acquisition_cam1 - ERROR - Erro durante aquisição: Erro ao capturar frame
+2024-12-10 13:44:25,107 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera local 0
+2024-12-10 13:44:47,744 - camera_acquisition_cam1 - INFO - Câmera conectada com sucesso: 0
+2024-12-10 13:44:47,744 - camera_acquisition_cam1 - INFO - Resolução configurada: 1280.0x720.0
+2024-12-10 13:44:57,747 - camera_acquisition_cam1 - ERROR - Erro durante aquisição: Erro ao capturar frame
+2024-12-10 13:45:03,018 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera local 0
+2024-12-10 13:45:25,238 - camera_acquisition_cam1 - INFO - Câmera conectada com sucesso: 0
+2024-12-10 13:45:25,239 - camera_acquisition_cam1 - INFO - Resolução configurada: 1280.0x720.0
+2024-12-10 13:46:21,823 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera IP rtsp://172.19.144.63:8080/h264_ulaw.sdp
+2024-12-10 13:46:28,592 - camera_acquisition_cam1 - INFO - Câmera conectada com sucesso: rtsp://172.19.144.63:8080/h264_ulaw.sdp
+2024-12-10 13:46:28,592 - camera_acquisition_cam1 - INFO - Resolução configurada: 1920.0x1080.0
+2024-12-10 13:46:28,594 - camera_acquisition_cam1 - INFO - Criando memória compartilhada com tamanho: 6220800 bytes
+2024-12-10 13:46:28,595 - camera_acquisition_cam1 - INFO - Memória compartilhada criada: cam1 (tamanho: 6220800)
+2024-12-10 13:49:43,414 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera IP rtsp://172.19.144.63:8080/h264_ulaw.sdp
+2024-12-10 13:49:50,035 - camera_acquisition_cam1 - INFO - Câmera conectada com sucesso: rtsp://172.19.144.63:8080/h264_ulaw.sdp
+2024-12-10 13:49:50,035 - camera_acquisition_cam1 - INFO - Resolução configurada: 1920.0x1080.0
+2024-12-10 13:49:50,037 - camera_acquisition_cam1 - INFO - Criando memória compartilhada com tamanho: 6220800 bytes
+2024-12-10 13:49:50,037 - camera_acquisition_cam1 - INFO - Memória compartilhada criada: cam1 (tamanho: 6220800)
+2024-12-10 13:52:21,297 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera IP rtsp://172.19.144.63:8080/h264_ulaw.sdp
+2024-12-10 13:52:27,662 - camera_acquisition_cam1 - INFO - Câmera conectada com sucesso: rtsp://172.19.144.63:8080/h264_ulaw.sdp
+2024-12-10 13:52:27,663 - camera_acquisition_cam1 - INFO - Resolução configurada: 1920.0x1080.0
+2024-12-10 13:52:27,663 - camera_acquisition_cam1 - INFO - Criando memória compartilhada com tamanho: 6220800 bytes
+2024-12-10 13:52:27,663 - camera_acquisition_cam1 - INFO - Memória compartilhada criada: cam1 (tamanho: 6220800)
+2024-12-10 13:53:09,585 - camera_acquisition_cam1 - ERROR - Erro durante aquisição: Erro ao capturar frame
+2024-12-10 13:53:14,601 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera IP rtsp://172.19.144.63:8080/h264_ulaw.sdp
+2024-12-10 13:53:44,684 - camera_acquisition_cam1 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2024-12-10 13:53:49,685 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera IP rtsp://172.19.144.63:8080/h264_ulaw.sdp
+2025-01-27 11:32:25,466 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera IP rtsp://172.19.144.63:8080/h264_ulaw.sdp
+2025-01-27 11:32:55,492 - camera_acquisition_cam1 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2025-01-27 11:33:00,493 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera IP rtsp://172.19.144.63:8080/h264_ulaw.sdp
+2025-01-27 11:33:30,575 - camera_acquisition_cam1 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2025-01-27 11:33:35,577 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera IP rtsp://172.19.144.63:8080/h264_ulaw.sdp
+2025-01-27 11:34:05,660 - camera_acquisition_cam1 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2025-01-27 11:34:10,662 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera IP rtsp://172.19.144.63:8080/h264_ulaw.sdp
+2025-01-27 11:34:40,749 - camera_acquisition_cam1 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2025-01-27 11:34:45,751 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera IP rtsp://172.19.144.63:8080/h264_ulaw.sdp
+2025-01-27 11:35:15,772 - camera_acquisition_cam1 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2025-01-27 11:35:20,774 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera IP rtsp://172.19.144.63:8080/h264_ulaw.sdp
+2025-01-27 11:35:50,866 - camera_acquisition_cam1 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2025-01-27 11:35:55,868 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera IP rtsp://172.19.144.63:8080/h264_ulaw.sdp
+2025-01-27 11:36:25,965 - camera_acquisition_cam1 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2025-01-27 11:36:30,967 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera IP rtsp://172.19.144.63:8080/h264_ulaw.sdp
+2025-01-27 11:46:07,418 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera IP rtsp://172.19.144.63:8080/h264_ulaw.sdp
+2025-01-27 11:46:37,451 - camera_acquisition_cam1 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2025-01-27 11:46:42,454 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera IP rtsp://172.19.144.63:8080/h264_ulaw.sdp
+2025-01-27 11:47:12,455 - camera_acquisition_cam1 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2025-01-27 11:47:17,456 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera IP rtsp://172.19.144.63:8080/h264_ulaw.sdp
+2025-01-27 11:47:47,537 - camera_acquisition_cam1 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2025-01-27 11:47:52,538 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera IP rtsp://172.19.144.63:8080/h264_ulaw.sdp
+2025-01-27 11:48:22,625 - camera_acquisition_cam1 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2025-01-27 11:48:27,626 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera IP rtsp://172.19.144.63:8080/h264_ulaw.sdp
+2025-01-27 11:48:47,498 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera IP rtsp://172.19.144.63:8080/h264_ulaw.sdp
+2025-01-27 11:48:57,706 - camera_acquisition_cam1 - INFO - Encerrando aquisição de imagens...
+2025-01-27 11:49:17,581 - camera_acquisition_cam1 - INFO - Encerrando aquisição de imagens...
+2025-01-27 11:49:37,098 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera IP rtsp://172.19.144.63:8080/h264_ulaw.sdp
+2025-01-27 11:50:07,105 - camera_acquisition_cam1 - INFO - Encerrando aquisição de imagens...
+2025-01-27 11:55:24,940 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera IP rtsp://172.19.144.63:8080/h264_ulaw.sdp
+2025-01-27 11:55:55,059 - camera_acquisition_cam1 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2025-01-27 11:56:00,060 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera IP rtsp://172.19.144.63:8080/h264_ulaw.sdp
+2025-01-27 12:00:03,737 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera IP rtsp://172.19.144.63:8080/h264_ulaw.sdp
+2025-01-27 12:00:33,826 - camera_acquisition_cam1 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2025-01-27 12:00:36,806 - camera_acquisition_cam1 - INFO - Encerrando aquisição de imagens...
+2025-01-27 12:02:44,315 - camera_acquisition_cam1 - INFO - Tentando conectar à câmera IP rtsp://172.19.144.63:8080/h264_ulaw.sdp
+2025-01-27 12:03:14,401 - camera_acquisition_cam1 - ERROR - Erro ao conectar câmera: Falha ao abrir a câmera
+2025-01-27 12:03:15,249 - camera_acquisition_cam1 - INFO - Encerrando aquisição de imagens...

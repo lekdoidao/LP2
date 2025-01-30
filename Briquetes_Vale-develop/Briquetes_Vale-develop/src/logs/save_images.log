@@ -1,0 +1,741 @@
+2024-11-14 11:42:52,365 - save_images - INFO - Iniciando processo para câmera cam1: d:\PythonFiles\Briquetes_Vale\src\camera_acquisition.exe --camera-url 0 --shared-memory cam1 --frame-rate 10 --retry-interval 5 --frame-shape 1080 1920 3
+2024-11-14 11:42:56,370 - save_images - INFO - Memória compartilhada conectada para cam1
+2024-11-14 11:42:56,370 - save_images - INFO - Iniciando processo para câmera cam2: d:\PythonFiles\Briquetes_Vale\src\camera_acquisition.exe --camera-url rtsp://172.19.145.77:8080/h264_ulaw.sdp --shared-memory cam2 --frame-rate 10 --retry-interval 5 --frame-shape 1080 1920 3
+2024-11-14 11:43:04,377 - save_images - INFO - Memória compartilhada conectada para cam2
+2024-11-14 11:43:04,378 - save_images - INFO - Iniciando processo para câmera cam3: d:\PythonFiles\Briquetes_Vale\src\camera_acquisition.exe --camera-url rtsp://172.19.145.77:8080/h264_ulaw.sdp --shared-memory cam3 --frame-rate 10 --retry-interval 5 --frame-shape 1080 1920 3
+2024-11-14 11:43:10,392 - save_images - INFO - Memória compartilhada conectada para cam3
+2024-11-14 11:43:10,459 - save_images - INFO - Imagem salva em data\images\cam1\2024-11-14\11-43-10.jpg
+2024-11-14 11:43:20,500 - save_images - INFO - Imagem salva em data\images\cam2\2024-11-14\11-43-20.jpg
+2024-11-14 11:43:30,566 - save_images - INFO - Imagem salva em data\images\cam3\2024-11-14\11-43-30.jpg
+2024-11-14 11:43:40,641 - save_images - INFO - Imagem salva em data\images\cam1\2024-11-14\11-43-40.jpg
+2024-11-14 11:43:50,702 - save_images - INFO - Imagem salva em data\images\cam2\2024-11-14\11-43-50.jpg
+2024-11-14 11:44:00,751 - save_images - INFO - Imagem salva em data\images\cam3\2024-11-14\11-44-00.jpg
+2024-11-14 11:44:10,798 - save_images - INFO - Imagem salva em data\images\cam1\2024-11-14\11-44-10.jpg
+2024-11-14 11:44:20,840 - save_images - INFO - Imagem salva em data\images\cam2\2024-11-14\11-44-20.jpg
+2024-11-14 11:44:30,891 - save_images - INFO - Imagem salva em data\images\cam3\2024-11-14\11-44-30.jpg
+2024-11-14 11:44:40,961 - save_images - INFO - Imagem salva em data\images\cam1\2024-11-14\11-44-40.jpg
+2024-11-14 11:44:51,038 - save_images - INFO - Imagem salva em data\images\cam2\2024-11-14\11-44-50.jpg
+2024-11-14 11:45:01,097 - save_images - INFO - Imagem salva em data\images\cam3\2024-11-14\11-45-01.jpg
+2024-11-14 11:45:11,160 - save_images - INFO - Imagem salva em data\images\cam1\2024-11-14\11-45-11.jpg
+2024-11-14 11:45:21,204 - save_images - INFO - Imagem salva em data\images\cam2\2024-11-14\11-45-21.jpg
+2024-11-14 11:45:31,255 - save_images - INFO - Imagem salva em data\images\cam3\2024-11-14\11-45-31.jpg
+2024-11-14 11:45:41,300 - save_images - INFO - Imagem salva em data\images\cam1\2024-11-14\11-45-41.jpg
+2024-11-14 11:45:51,342 - save_images - INFO - Imagem salva em data\images\cam2\2024-11-14\11-45-51.jpg
+2024-11-14 11:46:01,407 - save_images - INFO - Imagem salva em data\images\cam3\2024-11-14\11-46-01.jpg
+2024-11-14 11:46:11,473 - save_images - INFO - Imagem salva em data\images\cam1\2024-11-14\11-46-11.jpg
+2024-11-14 11:46:21,519 - save_images - INFO - Imagem salva em data\images\cam2\2024-11-14\11-46-21.jpg
+2024-11-14 11:46:31,571 - save_images - INFO - Imagem salva em data\images\cam3\2024-11-14\11-46-31.jpg
+2024-11-14 11:46:41,620 - save_images - INFO - Imagem salva em data\images\cam1\2024-11-14\11-46-41.jpg
+2024-11-14 11:46:50,668 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-11-14 11:46:50,669 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-11-14 11:46:50,746 - save_images - INFO - Processo da câmera cam1 finalizado
+2024-11-14 11:46:50,766 - save_images - INFO - Processo da câmera cam2 finalizado
+2024-11-14 11:46:50,779 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-11-14 11:46:50,780 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-11-14 11:46:50,790 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=25252)
+2024-11-14 11:46:50,792 - save_images - INFO - Processo da câmera cam1 finalizado
+2024-11-14 11:46:50,801 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=27116)
+2024-11-14 11:46:50,802 - save_images - INFO - Processo da câmera cam2 finalizado
+2024-11-14 11:46:50,824 - save_images - INFO - Processo da câmera cam3 finalizado
+2024-11-14 11:46:50,825 - save_images - INFO - Memória compartilhada cam1 liberada
+2024-11-14 11:46:50,826 - save_images - INFO - Memória compartilhada cam2 liberada
+2024-11-14 11:46:50,826 - save_images - INFO - Memória compartilhada cam3 liberada
+2024-11-14 11:46:50,863 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-11-14 11:46:50,878 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=25252)
+2024-11-14 11:46:50,879 - save_images - INFO - Processo da câmera cam1 finalizado
+2024-11-14 11:46:50,895 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=27116)
+2024-11-14 11:46:50,896 - save_images - INFO - Processo da câmera cam2 finalizado
+2024-11-14 11:46:50,905 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=20784)
+2024-11-14 11:46:50,905 - save_images - INFO - Processo da câmera cam3 finalizado
+2024-11-14 11:46:50,906 - save_images - INFO - Memória compartilhada cam1 liberada
+2024-11-14 11:46:50,906 - save_images - INFO - Memória compartilhada cam2 liberada
+2024-11-14 11:46:50,906 - save_images - INFO - Memória compartilhada cam3 liberada
+2024-11-14 11:49:12,826 - save_images - INFO - Iniciando processo para câmera cam1: d:\PythonFiles\Briquetes_Vale\src\camera_acquisition.exe --camera-url 0 --shared-memory cam1 --frame-rate 10 --retry-interval 5 --frame-shape 1080 1920 3
+2024-11-14 11:49:33,070 - save_images - ERROR - Timeout ao conectar à memória compartilhada para cam1
+2024-11-14 11:49:33,070 - save_images - INFO - Iniciando processo para câmera cam2: d:\PythonFiles\Briquetes_Vale\src\camera_acquisition.exe --camera-url rtsp://172.19.145.77:8080/h264_ulaw.sdp --shared-memory cam2 --frame-rate 10 --retry-interval 5 --frame-shape 1080 1920 3
+2024-11-14 11:49:53,080 - save_images - ERROR - Timeout ao conectar à memória compartilhada para cam2
+2024-11-14 11:49:53,080 - save_images - INFO - Iniciando processo para câmera cam3: d:\PythonFiles\Briquetes_Vale\src\camera_acquisition.exe --camera-url rtsp://172.19.145.77:8080/h264_ulaw.sdp --shared-memory cam3 --frame-rate 10 --retry-interval 5 --frame-shape 1080 1920 3
+2024-11-14 11:50:13,093 - save_images - ERROR - Timeout ao conectar à memória compartilhada para cam3
+2024-11-14 11:50:21,434 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-11-14 11:50:21,435 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-11-14 11:50:21,442 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=12668)
+2024-11-14 11:50:21,442 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-11-14 11:50:21,442 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-11-14 11:50:21,453 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=12668)
+2024-11-14 11:50:21,454 - save_images - INFO - Processo da câmera cam1 finalizado
+2024-11-14 11:50:21,494 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-11-14 11:50:21,495 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-11-14 11:50:21,506 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=12668)
+2024-11-14 11:50:21,506 - save_images - INFO - Processo da câmera cam1 finalizado
+2024-11-14 11:50:21,521 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-11-14 11:50:21,523 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-11-14 11:50:21,536 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=12668)
+2024-11-14 11:50:21,537 - save_images - INFO - Processo da câmera cam1 finalizado
+2024-11-14 11:50:21,552 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-11-14 11:50:21,553 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-11-14 11:50:21,565 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=12668)
+2024-11-14 11:50:21,566 - save_images - INFO - Processo da câmera cam1 finalizado
+2024-11-14 11:50:21,580 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-11-14 11:50:21,580 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-11-14 11:50:21,592 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=12668)
+2024-11-14 11:50:21,592 - save_images - INFO - Processo da câmera cam1 finalizado
+2024-11-14 11:50:21,613 - save_images - INFO - Processo da câmera cam2 finalizado
+2024-11-14 11:50:21,630 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-11-14 11:50:21,631 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-11-14 11:50:21,637 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=12668)
+2024-11-14 11:50:21,637 - save_images - INFO - Processo da câmera cam1 finalizado
+2024-11-14 11:50:21,650 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-11-14 11:50:21,651 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-11-14 11:50:21,660 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=12668)
+2024-11-14 11:50:21,660 - save_images - INFO - Processo da câmera cam1 finalizado
+2024-11-14 11:50:21,670 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=15344)
+2024-11-14 11:50:21,670 - save_images - INFO - Processo da câmera cam2 finalizado
+2024-11-14 11:50:21,686 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-11-14 11:50:21,687 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-11-14 11:50:21,699 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=12668)
+2024-11-14 11:50:21,699 - save_images - INFO - Processo da câmera cam1 finalizado
+2024-11-14 11:50:21,710 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-11-14 11:50:21,710 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-11-14 11:50:21,721 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=12668)
+2024-11-14 11:50:21,721 - save_images - INFO - Processo da câmera cam1 finalizado
+2024-11-14 11:50:21,730 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=15344)
+2024-11-14 11:50:21,730 - save_images - INFO - Processo da câmera cam2 finalizado
+2024-11-14 11:50:21,769 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-11-14 11:50:21,769 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-11-14 11:50:21,784 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-11-14 11:50:21,785 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-11-14 11:50:21,798 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=12668)
+2024-11-14 11:50:21,799 - save_images - INFO - Processo da câmera cam1 finalizado
+2024-11-14 11:50:21,815 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-11-14 11:50:21,816 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-11-14 11:50:21,825 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=12668)
+2024-11-14 11:50:21,826 - save_images - INFO - Processo da câmera cam1 finalizado
+2024-11-14 11:50:21,835 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=15344)
+2024-11-14 11:50:21,835 - save_images - INFO - Processo da câmera cam2 finalizado
+2024-11-14 11:50:21,851 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-11-14 11:50:21,851 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-11-14 11:50:21,857 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=12668)
+2024-11-14 11:50:21,857 - save_images - INFO - Processo da câmera cam1 finalizado
+2024-11-14 11:50:21,867 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=15344)
+2024-11-14 11:50:21,867 - save_images - INFO - Processo da câmera cam2 finalizado
+2024-11-14 11:50:21,883 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-11-14 11:50:21,884 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-11-14 11:50:21,891 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=12668)
+2024-11-14 11:50:21,891 - save_images - INFO - Processo da câmera cam1 finalizado
+2024-11-14 11:50:21,900 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=15344)
+2024-11-14 11:50:21,901 - save_images - INFO - Processo da câmera cam2 finalizado
+2024-11-14 11:50:21,911 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-11-14 11:50:21,911 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-11-14 11:50:21,916 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=12668)
+2024-11-14 11:50:21,917 - save_images - INFO - Processo da câmera cam1 finalizado
+2024-11-14 11:50:21,922 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=15344)
+2024-11-14 11:50:21,923 - save_images - INFO - Processo da câmera cam2 finalizado
+2024-11-14 11:50:21,938 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-11-14 11:50:21,938 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-11-14 11:50:21,946 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=12668)
+2024-11-14 11:50:21,946 - save_images - INFO - Processo da câmera cam1 finalizado
+2024-11-14 11:50:21,952 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=15344)
+2024-11-14 11:50:21,953 - save_images - INFO - Processo da câmera cam2 finalizado
+2024-11-14 11:50:21,969 - save_images - INFO - Processo da câmera cam3 finalizado
+2024-11-14 11:50:22,039 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-11-14 11:50:22,039 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-11-14 11:50:22,046 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=12668)
+2024-11-14 11:50:22,046 - save_images - INFO - Processo da câmera cam1 finalizado
+2024-11-14 11:50:22,053 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=15344)
+2024-11-14 11:50:22,053 - save_images - INFO - Processo da câmera cam2 finalizado
+2024-11-14 11:50:22,063 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=15064)
+2024-11-14 11:50:22,064 - save_images - INFO - Processo da câmera cam3 finalizado
+2024-11-14 11:50:22,064 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-11-14 11:50:22,070 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=12668)
+2024-11-14 11:50:22,072 - save_images - INFO - Processo da câmera cam1 finalizado
+2024-11-14 11:50:22,079 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=15344)
+2024-11-14 11:50:22,080 - save_images - INFO - Processo da câmera cam2 finalizado
+2024-11-14 11:50:22,085 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=15064)
+2024-11-14 11:50:22,085 - save_images - INFO - Processo da câmera cam3 finalizado
+2024-11-14 11:51:13,410 - save_images - INFO - Iniciando processo para câmera cam1: d:\PythonFiles\Briquetes_Vale\src\camera_acquisition.exe --camera-url 0 --shared-memory cam1 --frame-rate 10 --retry-interval 5 --frame-shape 1080 1920 3
+2024-11-14 11:51:19,663 - save_images - INFO - Memória compartilhada conectada para cam1
+2024-11-14 11:51:19,664 - save_images - INFO - Iniciando processo para câmera cam2: d:\PythonFiles\Briquetes_Vale\src\camera_acquisition.exe --camera-url rtsp://172.19.145.77:8080/h264_ulaw.sdp --shared-memory cam2 --frame-rate 10 --retry-interval 5 --frame-shape 1080 1920 3
+2024-11-14 11:51:27,673 - save_images - INFO - Memória compartilhada conectada para cam2
+2024-11-14 11:51:27,676 - save_images - INFO - Iniciando processo para câmera cam3: d:\PythonFiles\Briquetes_Vale\src\camera_acquisition.exe --camera-url rtsp://172.19.145.77:8080/h264_ulaw.sdp --shared-memory cam3 --frame-rate 10 --retry-interval 5 --frame-shape 1080 1920 3
+2024-11-14 11:51:33,684 - save_images - INFO - Memória compartilhada conectada para cam3
+2024-11-14 11:51:33,764 - save_images - INFO - Imagem salva em data\images\cam1\2024-11-14\11-51-33.jpg
+2024-11-14 11:51:43,805 - save_images - INFO - Imagem salva em data\images\cam2\2024-11-14\11-51-43.jpg
+2024-11-14 11:51:52,446 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-11-14 11:51:52,447 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-11-14 11:51:52,467 - save_images - INFO - Processo da câmera cam1 finalizado
+2024-11-14 11:51:52,492 - save_images - INFO - Processo da câmera cam2 finalizado
+2024-11-14 11:51:52,512 - save_images - INFO - Processo da câmera cam3 finalizado
+2024-11-14 11:51:52,513 - save_images - INFO - Memória compartilhada cam1 liberada
+2024-11-14 11:51:52,514 - save_images - INFO - Memória compartilhada cam2 liberada
+2024-11-14 11:51:52,515 - save_images - INFO - Memória compartilhada cam3 liberada
+2024-11-14 11:51:52,547 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-11-14 11:51:52,561 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-11-14 11:51:52,561 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-11-14 11:51:52,575 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=28056)
+2024-11-14 11:51:52,575 - save_images - INFO - Processo da câmera cam1 finalizado
+2024-11-14 11:51:52,585 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=12092)
+2024-11-14 11:51:52,585 - save_images - INFO - Processo da câmera cam2 finalizado
+2024-11-14 11:51:52,593 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=32208)
+2024-11-14 11:51:52,594 - save_images - INFO - Processo da câmera cam3 finalizado
+2024-11-14 11:51:52,594 - save_images - INFO - Memória compartilhada cam1 liberada
+2024-11-14 11:51:52,594 - save_images - INFO - Memória compartilhada cam2 liberada
+2024-11-14 11:51:52,594 - save_images - INFO - Memória compartilhada cam3 liberada
+2024-11-14 11:52:13,278 - save_images - INFO - Iniciando processo para câmera cam1: d:\PythonFiles\Briquetes_Vale\src\camera_acquisition.exe --camera-url 0 --shared-memory cam1 --frame-rate 10 --retry-interval 5 --frame-shape 1080 1920 3
+2024-11-14 11:52:17,282 - save_images - INFO - Memória compartilhada conectada para cam1
+2024-11-14 11:52:17,282 - save_images - INFO - Iniciando processo para câmera cam2: d:\PythonFiles\Briquetes_Vale\src\camera_acquisition.exe --camera-url rtsp://172.19.145.77:8080/h264_ulaw.sdp --shared-memory cam2 --frame-rate 20 --retry-interval 5 --frame-shape 1080 1920 3
+2024-11-14 11:52:23,289 - save_images - INFO - Memória compartilhada conectada para cam2
+2024-11-14 11:52:23,290 - save_images - INFO - Iniciando processo para câmera cam3: d:\PythonFiles\Briquetes_Vale\src\camera_acquisition.exe --camera-url rtsp://172.19.145.77:8080/h264_ulaw.sdp --shared-memory cam3 --frame-rate 20 --retry-interval 5 --frame-shape 1080 1920 3
+2024-11-14 11:52:31,299 - save_images - INFO - Memória compartilhada conectada para cam3
+2024-11-14 11:52:31,350 - save_images - INFO - Imagem salva em data\images\cam1\2024-11-14\11-52-31.jpg
+2024-11-14 11:52:41,389 - save_images - INFO - Imagem salva em data\images\cam2\2024-11-14\11-52-41.jpg
+2024-11-14 11:52:51,417 - save_images - INFO - Imagem salva em data\images\cam3\2024-11-14\11-52-51.jpg
+2024-11-14 11:53:01,465 - save_images - INFO - Imagem salva em data\images\cam1\2024-11-14\11-53-01.jpg
+2024-11-14 11:53:11,524 - save_images - INFO - Imagem salva em data\images\cam2\2024-11-14\11-53-11.jpg
+2024-11-14 11:53:21,565 - save_images - INFO - Imagem salva em data\images\cam3\2024-11-14\11-53-21.jpg
+2024-11-14 11:53:31,621 - save_images - INFO - Imagem salva em data\images\cam1\2024-11-14\11-53-31.jpg
+2024-11-14 11:53:41,657 - save_images - INFO - Imagem salva em data\images\cam2\2024-11-14\11-53-41.jpg
+2024-11-14 11:53:51,704 - save_images - INFO - Imagem salva em data\images\cam3\2024-11-14\11-53-51.jpg
+2024-11-14 11:54:01,747 - save_images - INFO - Imagem salva em data\images\cam1\2024-11-14\11-54-01.jpg
+2024-11-14 11:54:11,786 - save_images - INFO - Imagem salva em data\images\cam2\2024-11-14\11-54-11.jpg
+2024-11-14 11:54:21,830 - save_images - INFO - Imagem salva em data\images\cam3\2024-11-14\11-54-21.jpg
+2024-11-14 11:54:31,900 - save_images - INFO - Imagem salva em data\images\cam1\2024-11-14\11-54-31.jpg
+2024-11-14 11:54:41,960 - save_images - INFO - Imagem salva em data\images\cam2\2024-11-14\11-54-41.jpg
+2024-11-14 11:54:44,430 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-11-14 11:54:44,430 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-11-14 11:54:44,450 - save_images - INFO - Processo da câmera cam1 finalizado
+2024-11-14 11:54:44,465 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=23292)
+2024-11-14 11:54:44,467 - save_images - INFO - Processo da câmera cam2 finalizado
+2024-11-14 11:54:44,481 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=22732)
+2024-11-14 11:54:44,482 - save_images - INFO - Processo da câmera cam3 finalizado
+2024-11-14 11:54:44,482 - save_images - INFO - Memória compartilhada cam1 liberada
+2024-11-14 11:54:44,483 - save_images - INFO - Memória compartilhada cam2 liberada
+2024-11-14 11:54:44,484 - save_images - INFO - Memória compartilhada cam3 liberada
+2024-11-14 11:54:44,515 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-11-14 11:54:44,536 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=28820)
+2024-11-14 11:54:44,537 - save_images - INFO - Processo da câmera cam1 finalizado
+2024-11-14 11:54:44,554 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=23292)
+2024-11-14 11:54:44,555 - save_images - INFO - Processo da câmera cam2 finalizado
+2024-11-14 11:54:44,569 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=22732)
+2024-11-14 11:54:44,570 - save_images - INFO - Processo da câmera cam3 finalizado
+2024-11-14 11:54:44,570 - save_images - INFO - Memória compartilhada cam1 liberada
+2024-11-14 11:54:44,570 - save_images - INFO - Memória compartilhada cam2 liberada
+2024-11-14 11:54:44,570 - save_images - INFO - Memória compartilhada cam3 liberada
+2024-11-14 11:54:59,878 - save_images - INFO - Iniciando processo para câmera cam1: d:\PythonFiles\Briquetes_Vale\src\camera_acquisition.exe --camera-url 0 --shared-memory cam1 --frame-rate 10 --retry-interval 5 --frame-shape 108 192 3
+2024-11-14 11:55:03,882 - save_images - INFO - Memória compartilhada conectada para cam1
+2024-11-14 11:55:03,883 - save_images - INFO - Iniciando processo para câmera cam2: d:\PythonFiles\Briquetes_Vale\src\camera_acquisition.exe --camera-url rtsp://172.19.145.77:8080/h264_ulaw.sdp --shared-memory cam2 --frame-rate 20 --retry-interval 5 --frame-shape 108 192 3
+2024-11-14 11:55:11,889 - save_images - INFO - Memória compartilhada conectada para cam2
+2024-11-14 11:55:11,890 - save_images - INFO - Iniciando processo para câmera cam3: d:\PythonFiles\Briquetes_Vale\src\camera_acquisition.exe --camera-url rtsp://172.19.145.77:8080/h264_ulaw.sdp --shared-memory cam3 --frame-rate 20 --retry-interval 5 --frame-shape 108 192 3
+2024-11-14 11:55:17,896 - save_images - INFO - Memória compartilhada conectada para cam3
+2024-11-14 11:55:17,902 - save_images - INFO - Imagem salva em data\images\cam1\2024-11-14\11-55-17.jpg
+2024-11-14 11:55:27,905 - save_images - INFO - Imagem salva em data\images\cam2\2024-11-14\11-55-27.jpg
+2024-11-14 11:55:37,916 - save_images - INFO - Imagem salva em data\images\cam3\2024-11-14\11-55-37.jpg
+2024-11-14 11:55:47,919 - save_images - INFO - Imagem salva em data\images\cam1\2024-11-14\11-55-47.jpg
+2024-11-14 11:55:57,923 - save_images - INFO - Imagem salva em data\images\cam2\2024-11-14\11-55-57.jpg
+2024-11-14 11:56:07,925 - save_images - INFO - Imagem salva em data\images\cam3\2024-11-14\11-56-07.jpg
+2024-11-14 11:56:17,937 - save_images - INFO - Imagem salva em data\images\cam1\2024-11-14\11-56-17.jpg
+2024-11-14 11:56:27,949 - save_images - INFO - Imagem salva em data\images\cam2\2024-11-14\11-56-27.jpg
+2024-11-14 11:56:37,952 - save_images - INFO - Imagem salva em data\images\cam3\2024-11-14\11-56-37.jpg
+2024-11-14 11:56:41,533 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-11-14 11:56:41,533 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-11-14 11:56:41,539 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=32944)
+2024-11-14 11:56:41,543 - save_images - INFO - Processo da câmera cam1 finalizado
+2024-11-14 11:56:41,554 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=32136)
+2024-11-14 11:56:41,555 - save_images - INFO - Processo da câmera cam2 finalizado
+2024-11-14 11:56:41,564 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=21536)
+2024-11-14 11:56:41,564 - save_images - INFO - Processo da câmera cam3 finalizado
+2024-11-14 11:56:41,564 - save_images - INFO - Memória compartilhada cam1 liberada
+2024-11-14 11:56:41,565 - save_images - INFO - Memória compartilhada cam2 liberada
+2024-11-14 11:56:41,565 - save_images - INFO - Memória compartilhada cam3 liberada
+2024-11-14 11:56:41,591 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-11-14 11:56:41,602 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=32944)
+2024-11-14 11:56:41,602 - save_images - INFO - Processo da câmera cam1 finalizado
+2024-11-14 11:56:41,616 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=32136)
+2024-11-14 11:56:41,616 - save_images - INFO - Processo da câmera cam2 finalizado
+2024-11-14 11:56:41,622 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=21536)
+2024-11-14 11:56:41,623 - save_images - INFO - Processo da câmera cam3 finalizado
+2024-11-14 11:56:41,625 - save_images - INFO - Memória compartilhada cam1 liberada
+2024-11-14 11:56:41,626 - save_images - INFO - Memória compartilhada cam2 liberada
+2024-11-14 11:56:41,626 - save_images - INFO - Memória compartilhada cam3 liberada
+2024-11-14 11:57:21,579 - save_images - INFO - Iniciando processo para câmera cam1: d:\PythonFiles\Briquetes_Vale\src\camera_acquisition.exe --camera-url 0 --shared-memory cam1 --frame-rate 10 --retry-interval 5 --frame-shape 1080 1920 3
+2024-11-14 11:57:25,585 - save_images - INFO - Memória compartilhada conectada para cam1
+2024-11-14 11:57:25,585 - save_images - INFO - Iniciando processo para câmera cam2: d:\PythonFiles\Briquetes_Vale\src\camera_acquisition.exe --camera-url rtsp://172.19.145.77:8080/h264_ulaw.sdp --shared-memory cam2 --frame-rate 10 --retry-interval 5 --frame-shape 1080 1920 3
+2024-11-14 11:57:31,590 - save_images - INFO - Memória compartilhada conectada para cam2
+2024-11-14 11:57:31,591 - save_images - INFO - Iniciando processo para câmera cam3: d:\PythonFiles\Briquetes_Vale\src\camera_acquisition.exe --camera-url rtsp://172.19.145.77:8080/h264_ulaw.sdp --shared-memory cam3 --frame-rate 10 --retry-interval 5 --frame-shape 1080 1920 3
+2024-11-14 11:57:37,607 - save_images - INFO - Memória compartilhada conectada para cam3
+2024-11-14 11:57:37,656 - save_images - INFO - Imagem salva em data\images\cam1\2024-11-14\11-57-37.jpg
+2024-11-14 11:57:47,713 - save_images - INFO - Imagem salva em data\images\cam2\2024-11-14\11-57-47.jpg
+2024-11-14 11:57:57,766 - save_images - INFO - Imagem salva em data\images\cam3\2024-11-14\11-57-57.jpg
+2024-11-14 11:58:07,824 - save_images - INFO - Imagem salva em data\images\cam1\2024-11-14\11-58-07.jpg
+2024-11-14 11:58:17,870 - save_images - INFO - Imagem salva em data\images\cam2\2024-11-14\11-58-17.jpg
+2024-11-14 11:58:27,909 - save_images - INFO - Imagem salva em data\images\cam3\2024-11-14\11-58-27.jpg
+2024-11-14 11:58:37,964 - save_images - INFO - Imagem salva em data\images\cam1\2024-11-14\11-58-37.jpg
+2024-11-14 11:58:48,010 - save_images - INFO - Imagem salva em data\images\cam2\2024-11-14\11-58-47.jpg
+2024-11-14 11:58:58,077 - save_images - INFO - Imagem salva em data\images\cam3\2024-11-14\11-58-58.jpg
+2024-11-14 11:59:08,122 - save_images - INFO - Imagem salva em data\images\cam1\2024-11-14\11-59-08.jpg
+2024-11-14 11:59:15,145 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-11-14 11:59:15,145 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-11-14 11:59:15,170 - save_images - INFO - Processo da câmera cam1 finalizado
+2024-11-14 11:59:15,184 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-11-14 11:59:15,184 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-11-14 11:59:15,190 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=34876)
+2024-11-14 11:59:15,190 - save_images - INFO - Processo da câmera cam1 finalizado
+2024-11-14 11:59:15,228 - save_images - INFO - Processo da câmera cam2 finalizado
+2024-11-14 11:59:15,285 - save_images - INFO - Processo da câmera cam3 finalizado
+2024-11-14 11:59:15,285 - save_images - INFO - Memória compartilhada cam1 liberada
+2024-11-14 11:59:15,286 - save_images - INFO - Memória compartilhada cam2 liberada
+2024-11-14 11:59:15,286 - save_images - INFO - Memória compartilhada cam3 liberada
+2024-11-14 11:59:15,299 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-11-14 11:59:15,299 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-11-14 11:59:15,307 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=34876)
+2024-11-14 11:59:15,307 - save_images - INFO - Processo da câmera cam1 finalizado
+2024-11-14 11:59:15,317 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=19000)
+2024-11-14 11:59:15,317 - save_images - INFO - Processo da câmera cam2 finalizado
+2024-11-14 11:59:15,328 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=484)
+2024-11-14 11:59:15,329 - save_images - INFO - Processo da câmera cam3 finalizado
+2024-11-14 11:59:15,329 - save_images - INFO - Memória compartilhada cam1 liberada
+2024-11-14 11:59:15,330 - save_images - INFO - Memória compartilhada cam2 liberada
+2024-11-14 11:59:15,330 - save_images - INFO - Memória compartilhada cam3 liberada
+2024-11-14 11:59:15,330 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-11-14 11:59:15,340 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=34876)
+2024-11-14 11:59:15,340 - save_images - INFO - Processo da câmera cam1 finalizado
+2024-11-14 11:59:15,348 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=19000)
+2024-11-14 11:59:15,348 - save_images - INFO - Processo da câmera cam2 finalizado
+2024-11-14 11:59:15,354 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=484)
+2024-11-14 11:59:15,355 - save_images - INFO - Processo da câmera cam3 finalizado
+2024-11-14 11:59:15,355 - save_images - INFO - Memória compartilhada cam1 liberada
+2024-11-14 11:59:15,355 - save_images - INFO - Memória compartilhada cam2 liberada
+2024-11-14 11:59:15,355 - save_images - INFO - Memória compartilhada cam3 liberada
+2024-11-14 13:17:14,666 - save_images - INFO - Iniciando processo para câmera cam1: C:\Users\CaioM\AppData\Local\Temp\_MEI34882\camera_acquisition.exe --camera-url 0 --shared-memory cam1 --frame-rate 10 --retry-interval 5 --frame-shape 1080 1920 3
+2024-11-14 13:17:20,921 - save_images - INFO - Memória compartilhada conectada para cam1
+2024-11-14 13:17:20,921 - save_images - INFO - Iniciando processo para câmera cam2: C:\Users\CaioM\AppData\Local\Temp\_MEI34882\camera_acquisition.exe --camera-url rtsp://172.19.145.77:8080/h264_ulaw.sdp --shared-memory cam2 --frame-rate 15 --retry-interval 5 --frame-shape 1080 1920 3
+2024-11-14 13:17:40,931 - save_images - ERROR - Timeout ao conectar à memória compartilhada para cam2
+2024-11-14 13:17:40,933 - save_images - INFO - Iniciando processo para câmera cam3: C:\Users\CaioM\AppData\Local\Temp\_MEI34882\camera_acquisition.exe --camera-url rtsp://172.19.145.77:8080/h264_ulaw.sdp --shared-memory cam3 --frame-rate 15 --retry-interval 5 --frame-shape 1080 1920 3
+2024-11-18 14:26:41,831 - save_images - INFO - Iniciando processo para câmera cam1: C:\Users\CaioM\AppData\Local\Temp\_MEI53082\camera_acquisition.exe --camera-url 0 --shared-memory cam1 --frame-rate 10 --retry-interval 5 --frame-shape 1080 1920 3
+2024-11-18 14:26:53,179 - save_images - INFO - Memória compartilhada conectada para cam1
+2024-11-18 14:26:53,179 - save_images - INFO - Iniciando processo para câmera cam2: C:\Users\CaioM\AppData\Local\Temp\_MEI53082\camera_acquisition.exe --camera-url rtsp://172.19.145.77:8080/h264_ulaw.sdp --shared-memory cam2 --frame-rate 15 --retry-interval 5 --frame-shape 1080 1920 3
+2024-12-06 08:25:38,913 - save_images - INFO - Iniciando processo para câmera cam1: camera_acquisition.exe --camera-url 0 --shared-memory cam1 --frame-rate 10 --retry-interval 5 --frame-shape 1080 1920 3
+2024-12-06 08:26:02,639 - save_images - ERROR - Timeout ao conectar à memória compartilhada para cam1
+2024-12-06 08:26:02,640 - save_images - INFO - Iniciando processo para câmera cam2: camera_acquisition.exe --camera-url rtsp://172.19.145.77:8080/h264_ulaw.sdp --shared-memory cam2 --frame-rate 15 --retry-interval 5 --frame-shape 1080 1920 3
+2024-12-06 08:26:22,660 - save_images - ERROR - Timeout ao conectar à memória compartilhada para cam2
+2024-12-06 08:26:22,660 - save_images - INFO - Iniciando processo para câmera cam3: camera_acquisition.exe --camera-url rtsp://172.19.145.77:8080/h264_ulaw.sdp --shared-memory cam3 --frame-rate 15 --retry-interval 5 --frame-shape 1080 1920 3
+2024-12-06 08:26:42,670 - save_images - ERROR - Timeout ao conectar à memória compartilhada para cam3
+2024-12-06 08:44:06,723 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-06 08:44:06,723 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 08:44:06,777 - save_images - INFO - Processo da câmera cam1 finalizado
+2024-12-06 08:44:06,820 - save_images - INFO - Processo da câmera cam2 finalizado
+2024-12-06 08:44:06,856 - save_images - INFO - Processo da câmera cam3 finalizado
+2024-12-06 08:44:06,866 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 08:44:06,873 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=2524)
+2024-12-06 08:44:06,873 - save_images - INFO - Processo da câmera cam1 finalizado
+2024-12-06 08:44:06,878 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=19396)
+2024-12-06 08:44:06,878 - save_images - INFO - Processo da câmera cam2 finalizado
+2024-12-06 08:44:06,883 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=11268)
+2024-12-06 08:44:06,884 - save_images - INFO - Processo da câmera cam3 finalizado
+2024-12-06 08:48:51,937 - save_images - INFO - Iniciando processos para câmera cam1
+2024-12-06 08:49:13,496 - save_images - ERROR - Timeout ao conectar às memórias compartilhadas para cam1
+2024-12-06 08:49:13,496 - save_images - INFO - Iniciando processos para câmera cam2
+2024-12-06 08:49:13,819 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-06 08:49:13,819 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 08:49:13,824 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=5384)
+2024-12-06 08:49:13,824 - save_images - INFO - Processo cam1 finalizado
+2024-12-06 08:49:13,831 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=17852)
+2024-12-06 08:49:13,832 - save_images - INFO - Processo cam2 finalizado
+2024-12-06 08:49:13,833 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 08:49:13,840 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=5384)
+2024-12-06 08:49:13,841 - save_images - INFO - Processo cam1 finalizado
+2024-12-06 08:49:13,849 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=17852)
+2024-12-06 08:49:13,850 - save_images - INFO - Processo cam2 finalizado
+2024-12-06 08:49:38,345 - save_images - INFO - Iniciando processos para câmera cam1
+2024-12-06 08:49:44,350 - save_images - INFO - Memórias compartilhadas conectadas para cam1
+2024-12-06 08:49:44,351 - save_images - INFO - Iniciando processos para câmera cam2
+2024-12-06 08:50:04,365 - save_images - ERROR - Timeout ao conectar às memórias compartilhadas para cam2
+2024-12-06 08:50:04,365 - save_images - INFO - Iniciando processos para câmera cam3
+2024-12-06 08:50:22,750 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-06 08:50:22,750 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 08:50:22,884 - save_images - INFO - Processo cam1 finalizado
+2024-12-06 08:50:22,941 - save_images - INFO - Processo cam2 finalizado
+2024-12-06 08:50:23,001 - save_images - INFO - Processo cam3 finalizado
+2024-12-06 08:50:23,002 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 08:50:23,008 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=23452)
+2024-12-06 08:50:23,009 - save_images - INFO - Processo cam1 finalizado
+2024-12-06 08:50:23,015 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=25376)
+2024-12-06 08:50:23,016 - save_images - INFO - Processo cam2 finalizado
+2024-12-06 08:50:23,022 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=8164)
+2024-12-06 08:50:23,023 - save_images - INFO - Processo cam3 finalizado
+2024-12-06 09:08:54,025 - save_images - INFO - Iniciando processos para câmera cam1
+2024-12-06 09:09:00,034 - save_images - INFO - Memórias compartilhadas conectadas para cam1
+2024-12-06 09:09:00,034 - save_images - INFO - Iniciando processos para câmera cam2
+2024-12-06 09:09:20,046 - save_images - ERROR - Timeout ao conectar às memórias compartilhadas para cam2
+2024-12-06 09:09:20,047 - save_images - INFO - Iniciando processos para câmera cam3
+2024-12-06 09:09:40,066 - save_images - ERROR - Timeout ao conectar às memórias compartilhadas para cam3
+2024-12-06 09:10:13,938 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-06 09:10:13,939 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 09:10:14,118 - save_images - INFO - Processo cam1 finalizado
+2024-12-06 09:10:14,123 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=18300)
+2024-12-06 09:10:14,124 - save_images - INFO - Processo cam2 finalizado
+2024-12-06 09:10:14,138 - save_images - ERROR - Erro ao finalizar processos filhos: process no longer exists (pid=14256)
+2024-12-06 09:10:14,139 - save_images - INFO - Processo cam3 finalizado
+2024-12-06 09:10:14,165 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 09:10:14,176 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=16684)
+2024-12-06 09:10:14,177 - save_images - INFO - Processo cam1 finalizado
+2024-12-06 09:10:14,195 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=18300)
+2024-12-06 09:10:14,196 - save_images - INFO - Processo cam2 finalizado
+2024-12-06 09:10:14,203 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=14256)
+2024-12-06 09:10:14,203 - save_images - INFO - Processo cam3 finalizado
+2024-12-06 09:10:57,330 - save_images - INFO - Iniciando processos para câmera cam1
+2024-12-06 09:11:03,337 - save_images - INFO - Memórias compartilhadas conectadas para cam1
+2024-12-06 09:11:03,337 - save_images - INFO - Iniciando processos para câmera cam2
+2024-12-06 09:11:23,352 - save_images - ERROR - Timeout ao conectar às memórias compartilhadas para cam2
+2024-12-06 09:11:23,352 - save_images - INFO - Iniciando processos para câmera cam3
+2024-12-06 09:11:37,315 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-06 09:11:37,316 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 09:11:37,462 - save_images - INFO - Processo cam1 finalizado
+2024-12-06 09:11:37,513 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-06 09:11:37,514 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 09:11:37,519 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=14692)
+2024-12-06 09:11:37,520 - save_images - INFO - Processo cam1 finalizado
+2024-12-06 09:11:37,526 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=26072)
+2024-12-06 09:11:37,526 - save_images - INFO - Processo cam2 finalizado
+2024-12-06 09:11:37,599 - save_images - INFO - Processo cam3 finalizado
+2024-12-06 09:11:37,599 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 09:11:37,620 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=14692)
+2024-12-06 09:11:37,620 - save_images - INFO - Processo cam1 finalizado
+2024-12-06 09:11:37,633 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=26072)
+2024-12-06 09:11:37,634 - save_images - INFO - Processo cam2 finalizado
+2024-12-06 09:11:37,639 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=26340)
+2024-12-06 09:11:37,639 - save_images - INFO - Processo cam3 finalizado
+2024-12-06 09:17:48,000 - save_images - INFO - Iniciando processos para câmera cam1
+2024-12-06 09:17:52,008 - save_images - INFO - Memórias compartilhadas conectadas para cam1
+2024-12-06 09:17:52,009 - save_images - INFO - Iniciando processos para câmera cam2
+2024-12-06 09:18:12,026 - save_images - ERROR - Timeout ao conectar às memórias compartilhadas para cam2
+2024-12-06 09:18:12,026 - save_images - INFO - Iniciando processos para câmera cam3
+2024-12-06 09:18:32,038 - save_images - ERROR - Timeout ao conectar às memórias compartilhadas para cam3
+2024-12-06 09:19:00,648 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-06 09:19:00,649 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 09:19:00,779 - save_images - INFO - Processo cam1 finalizado
+2024-12-06 09:19:00,841 - save_images - INFO - Processo cam2 finalizado
+2024-12-06 09:19:00,911 - save_images - INFO - Processo cam3 finalizado
+2024-12-06 09:19:00,912 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 09:19:00,917 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=27400)
+2024-12-06 09:19:00,918 - save_images - INFO - Processo cam1 finalizado
+2024-12-06 09:19:00,927 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=1820)
+2024-12-06 09:19:00,927 - save_images - INFO - Processo cam2 finalizado
+2024-12-06 09:19:00,932 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=20692)
+2024-12-06 09:19:00,933 - save_images - INFO - Processo cam3 finalizado
+2024-12-06 09:20:08,287 - save_images - INFO - Iniciando processos para câmera cam1
+2024-12-06 09:20:14,295 - save_images - INFO - Memórias compartilhadas conectadas para cam1
+2024-12-06 09:20:14,295 - save_images - INFO - Iniciando processos para câmera cam2
+2024-12-06 09:20:34,309 - save_images - ERROR - Timeout ao conectar às memórias compartilhadas para cam2
+2024-12-06 09:20:34,309 - save_images - INFO - Iniciando processos para câmera cam3
+2024-12-06 09:20:54,324 - save_images - ERROR - Timeout ao conectar às memórias compartilhadas para cam3
+2024-12-06 09:22:36,695 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-06 09:22:36,695 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 09:22:36,698 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=14140)
+2024-12-06 09:22:36,699 - save_images - INFO - Processo cam1 finalizado
+2024-12-06 09:22:36,702 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=5144)
+2024-12-06 09:22:36,702 - save_images - INFO - Processo cam2 finalizado
+2024-12-06 09:22:36,706 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=16956)
+2024-12-06 09:22:36,706 - save_images - INFO - Processo cam3 finalizado
+2024-12-06 09:22:36,716 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 09:22:36,719 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=14140)
+2024-12-06 09:22:36,719 - save_images - INFO - Processo cam1 finalizado
+2024-12-06 09:22:36,724 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=5144)
+2024-12-06 09:22:36,724 - save_images - INFO - Processo cam2 finalizado
+2024-12-06 09:22:36,729 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=16956)
+2024-12-06 09:22:36,729 - save_images - INFO - Processo cam3 finalizado
+2024-12-06 10:16:03,412 - save_images - INFO - Iniciando processos para câmera cam1
+2024-12-06 10:16:09,421 - save_images - INFO - Memórias compartilhadas conectadas para cam1
+2024-12-06 10:16:09,421 - save_images - INFO - Iniciando processos para câmera cam2
+2024-12-06 10:16:29,435 - save_images - ERROR - Timeout ao conectar às memórias compartilhadas para cam2
+2024-12-06 10:16:29,435 - save_images - INFO - Iniciando processos para câmera cam3
+2024-12-06 10:16:49,454 - save_images - ERROR - Timeout ao conectar às memórias compartilhadas para cam3
+2024-12-06 10:21:44,541 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-06 10:21:44,541 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 10:21:44,546 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=11008)
+2024-12-06 10:21:44,547 - save_images - INFO - Processo cam1 finalizado
+2024-12-06 10:21:44,552 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=1200)
+2024-12-06 10:21:44,553 - save_images - INFO - Processo cam2 finalizado
+2024-12-06 10:21:44,561 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=3740)
+2024-12-06 10:21:44,561 - save_images - INFO - Processo cam3 finalizado
+2024-12-06 10:21:44,607 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 10:21:44,616 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=11008)
+2024-12-06 10:21:44,617 - save_images - INFO - Processo cam1 finalizado
+2024-12-06 10:21:44,627 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=1200)
+2024-12-06 10:21:44,635 - save_images - INFO - Processo cam2 finalizado
+2024-12-06 10:21:44,641 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=3740)
+2024-12-06 10:21:44,642 - save_images - INFO - Processo cam3 finalizado
+2024-12-06 10:22:04,120 - save_images - INFO - Iniciando processos para câmera cam1
+2024-12-06 10:22:10,127 - save_images - INFO - Memórias compartilhadas conectadas para cam1
+2024-12-06 10:22:10,127 - save_images - INFO - Iniciando processos para câmera cam2
+2024-12-06 10:22:11,300 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-06 10:22:11,301 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 10:22:11,356 - save_images - INFO - Processo cam1 finalizado
+2024-12-06 10:22:11,408 - save_images - INFO - Processo cam2 finalizado
+2024-12-06 10:22:11,409 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 10:22:11,416 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=16532)
+2024-12-06 10:22:11,416 - save_images - INFO - Processo cam1 finalizado
+2024-12-06 10:22:11,421 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=12648)
+2024-12-06 10:22:11,421 - save_images - INFO - Processo cam2 finalizado
+2024-12-06 10:22:22,684 - save_images - INFO - Iniciando processos para câmera cam1
+2024-12-06 10:22:28,691 - save_images - INFO - Memórias compartilhadas conectadas para cam1
+2024-12-06 10:22:28,691 - save_images - INFO - Iniciando processos para câmera cam2
+2024-12-06 10:22:40,905 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-06 10:22:40,905 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 10:22:41,039 - save_images - INFO - Processo cam1 finalizado
+2024-12-06 10:22:41,101 - save_images - INFO - Processo cam2 finalizado
+2024-12-06 10:22:41,101 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 10:22:41,106 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=1480)
+2024-12-06 10:22:41,106 - save_images - INFO - Processo cam1 finalizado
+2024-12-06 10:22:41,116 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=19192)
+2024-12-06 10:22:41,116 - save_images - INFO - Processo cam2 finalizado
+2024-12-06 10:22:45,130 - save_images - INFO - Iniciando processos para câmera cam1
+2024-12-06 10:22:51,136 - save_images - INFO - Memórias compartilhadas conectadas para cam1
+2024-12-06 10:23:38,910 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-06 10:23:38,911 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 10:23:38,933 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-06 10:23:38,933 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 10:23:38,957 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-06 10:23:38,958 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 10:23:39,094 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-06 10:23:39,094 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 10:23:39,098 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=352)
+2024-12-06 10:23:39,099 - save_images - INFO - Processo cam1 finalizado
+2024-12-06 10:23:39,121 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-06 10:23:39,122 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 10:23:39,128 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=352)
+2024-12-06 10:23:39,128 - save_images - INFO - Processo cam1 finalizado
+2024-12-06 10:23:39,128 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 10:23:39,140 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=352)
+2024-12-06 10:23:39,141 - save_images - INFO - Processo cam1 finalizado
+2024-12-06 10:25:03,513 - save_images - INFO - Iniciando processos para câmera cam1
+2024-12-06 10:25:09,519 - save_images - INFO - Memórias compartilhadas conectadas para cam1
+2024-12-06 10:25:33,593 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-06 10:25:33,594 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 10:25:33,613 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-06 10:25:33,614 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 10:25:33,639 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-06 10:25:33,639 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 10:25:33,665 - save_images - INFO - Processo cam1 finalizado
+2024-12-06 10:25:33,667 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-06 10:25:33,668 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 10:25:33,696 - save_images - INFO - Processo cam1 finalizado
+2024-12-06 10:25:33,699 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-06 10:25:33,700 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 10:25:33,721 - save_images - INFO - Processo cam1 finalizado
+2024-12-06 10:25:33,732 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-06 10:25:33,732 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 10:25:33,753 - save_images - INFO - Processo cam1 finalizado
+2024-12-06 10:25:33,754 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 10:25:33,764 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-06 10:25:33,764 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 10:25:33,769 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=5784)
+2024-12-06 10:25:33,769 - save_images - INFO - Processo cam1 finalizado
+2024-12-06 10:26:26,627 - save_images - INFO - Iniciando processos para câmera cam1
+2024-12-06 10:26:32,633 - save_images - INFO - Memórias compartilhadas conectadas para cam1
+2024-12-06 10:27:14,600 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-06 10:27:14,600 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 10:27:14,724 - save_images - INFO - Processo cam1 finalizado
+2024-12-06 10:27:14,725 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 10:27:14,731 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=19288)
+2024-12-06 10:27:14,731 - save_images - INFO - Processo cam1 finalizado
+2024-12-06 10:27:54,093 - save_images - INFO - Iniciando processos para câmera cam1
+2024-12-06 10:28:00,100 - save_images - INFO - Memórias compartilhadas conectadas para cam1
+2024-12-06 10:28:10,659 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-06 10:28:10,659 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 10:28:10,790 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-06 10:28:10,791 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 10:28:10,796 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=22848)
+2024-12-06 10:28:10,796 - save_images - INFO - Processo cam1 finalizado
+2024-12-06 10:28:10,797 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 10:28:10,806 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=22848)
+2024-12-06 10:28:10,806 - save_images - INFO - Processo cam1 finalizado
+2024-12-06 10:28:25,710 - save_images - INFO - Iniciando processos para câmera cam1
+2024-12-06 10:28:29,715 - save_images - INFO - Memórias compartilhadas conectadas para cam1
+2024-12-06 10:29:20,264 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-06 10:29:20,265 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 10:29:20,405 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-06 10:29:20,405 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 10:29:20,412 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=11464)
+2024-12-06 10:29:20,413 - save_images - INFO - Processo cam1 finalizado
+2024-12-06 10:29:20,431 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 10:29:20,445 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=11464)
+2024-12-06 10:29:20,445 - save_images - INFO - Processo cam1 finalizado
+2024-12-06 10:32:28,136 - save_images - INFO - Iniciando processos para câmera cam1
+2024-12-06 10:32:32,143 - save_images - INFO - Memórias compartilhadas conectadas para cam1
+2024-12-06 10:32:32,144 - save_images - INFO - Iniciando processos para câmera cam2
+2024-12-06 10:32:38,154 - save_images - INFO - Memórias compartilhadas conectadas para cam2
+2024-12-06 10:33:50,544 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-06 10:33:50,545 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 10:33:50,594 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-06 10:33:50,595 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 10:33:50,608 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-06 10:33:50,609 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 10:33:50,729 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-06 10:33:50,729 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 10:33:50,735 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=19916)
+2024-12-06 10:33:50,735 - save_images - INFO - Processo cam1 finalizado
+2024-12-06 10:33:50,746 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-06 10:33:50,747 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 10:33:50,753 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=19916)
+2024-12-06 10:33:50,754 - save_images - INFO - Processo cam1 finalizado
+2024-12-06 10:33:50,779 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-06 10:33:50,779 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 10:33:50,784 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=19916)
+2024-12-06 10:33:50,785 - save_images - INFO - Processo cam1 finalizado
+2024-12-06 10:33:50,804 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-06 10:33:50,804 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 10:33:50,814 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=19916)
+2024-12-06 10:33:50,815 - save_images - INFO - Processo cam1 finalizado
+2024-12-06 10:33:50,840 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-06 10:33:50,841 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 10:33:50,848 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=19916)
+2024-12-06 10:33:50,849 - save_images - INFO - Processo cam1 finalizado
+2024-12-06 10:33:50,871 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-06 10:33:50,871 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 10:33:50,880 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=19916)
+2024-12-06 10:33:50,881 - save_images - INFO - Processo cam1 finalizado
+2024-12-06 10:33:50,903 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-06 10:33:50,904 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 10:33:50,912 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=19916)
+2024-12-06 10:33:50,912 - save_images - INFO - Processo cam1 finalizado
+2024-12-06 10:33:50,933 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-06 10:33:50,934 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 10:33:50,946 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=19916)
+2024-12-06 10:33:50,947 - save_images - INFO - Processo cam1 finalizado
+2024-12-06 10:33:50,951 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=21732)
+2024-12-06 10:33:50,952 - save_images - INFO - Processo cam2 finalizado
+2024-12-06 10:33:50,970 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-06 10:33:50,971 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 10:33:50,978 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=19916)
+2024-12-06 10:33:50,979 - save_images - INFO - Processo cam1 finalizado
+2024-12-06 10:33:50,983 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=21732)
+2024-12-06 10:33:50,984 - save_images - INFO - Processo cam2 finalizado
+2024-12-06 10:33:50,984 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 10:33:50,988 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=19916)
+2024-12-06 10:33:50,989 - save_images - INFO - Processo cam1 finalizado
+2024-12-06 10:33:50,996 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=21732)
+2024-12-06 10:33:50,997 - save_images - INFO - Processo cam2 finalizado
+2024-12-06 10:36:49,976 - save_images - INFO - Iniciando processos para câmera cam1
+2024-12-06 10:37:09,986 - save_images - ERROR - Timeout ao conectar às memórias compartilhadas para cam1
+2024-12-06 10:37:09,986 - save_images - INFO - Iniciando processos para câmera cam2
+2024-12-06 10:37:14,528 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-06 10:37:14,528 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 10:37:14,531 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=13692)
+2024-12-06 10:37:14,532 - save_images - INFO - Processo cam1 finalizado
+2024-12-06 10:37:14,537 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=15212)
+2024-12-06 10:37:14,537 - save_images - INFO - Processo cam2 finalizado
+2024-12-06 10:37:14,538 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 10:37:14,542 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=13692)
+2024-12-06 10:37:14,542 - save_images - INFO - Processo cam1 finalizado
+2024-12-06 10:37:14,548 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=15212)
+2024-12-06 10:37:14,548 - save_images - INFO - Processo cam2 finalizado
+2024-12-06 10:37:47,286 - save_images - INFO - Iniciando processos para câmera cam1
+2024-12-06 10:37:53,292 - save_images - INFO - Memórias compartilhadas conectadas para cam1
+2024-12-06 10:37:53,292 - save_images - INFO - Iniciando processos para câmera cam2
+2024-12-06 10:37:59,299 - save_images - INFO - Memórias compartilhadas conectadas para cam2
+2024-12-06 10:41:43,091 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-06 10:41:43,091 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 10:41:43,240 - save_images - INFO - Processo cam1 finalizado
+2024-12-06 10:41:43,389 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-06 10:41:43,390 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 10:41:43,395 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=26408)
+2024-12-06 10:41:43,395 - save_images - INFO - Processo cam1 finalizado
+2024-12-06 10:41:43,406 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=27100)
+2024-12-06 10:41:43,407 - save_images - INFO - Processo cam2 finalizado
+2024-12-06 10:41:43,439 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-06 10:41:43,448 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=26408)
+2024-12-06 10:41:43,451 - save_images - INFO - Processo cam1 finalizado
+2024-12-06 10:41:43,463 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=27100)
+2024-12-06 10:41:43,464 - save_images - INFO - Processo cam2 finalizado
+2024-12-10 13:43:40,189 - save_images - INFO - Iniciando processos para câmera cam1
+2024-12-10 13:44:03,917 - save_images - ERROR - Timeout ao conectar às memórias compartilhadas para cam1
+2024-12-10 13:44:03,917 - save_images - INFO - Iniciando processos para câmera cam2
+2024-12-10 13:44:15,941 - save_images - INFO - Memórias compartilhadas conectadas para cam2
+2024-12-10 13:45:33,511 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-10 13:45:33,512 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-10 13:45:33,527 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-10 13:45:33,527 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-10 13:45:33,647 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-10 13:45:33,647 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-10 13:45:33,653 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-10 13:45:33,654 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-10 13:45:33,660 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=10820)
+2024-12-10 13:45:33,661 - save_images - INFO - Processo cam1 finalizado
+2024-12-10 13:45:33,693 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-10 13:45:33,693 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-10 13:45:33,701 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=10820)
+2024-12-10 13:45:33,701 - save_images - INFO - Processo cam1 finalizado
+2024-12-10 13:45:33,727 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-10 13:45:33,727 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-10 13:45:33,737 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=10820)
+2024-12-10 13:45:33,737 - save_images - INFO - Processo cam1 finalizado
+2024-12-10 13:45:33,749 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-10 13:45:33,750 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-10 13:45:33,756 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=10820)
+2024-12-10 13:45:33,756 - save_images - INFO - Processo cam1 finalizado
+2024-12-10 13:45:33,777 - save_images - INFO - Processo cam2 finalizado
+2024-12-10 13:45:33,786 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-10 13:45:33,787 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-10 13:45:33,792 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=10820)
+2024-12-10 13:45:33,793 - save_images - INFO - Processo cam1 finalizado
+2024-12-10 13:45:33,820 - save_images - INFO - Processo cam2 finalizado
+2024-12-10 13:45:33,902 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-10 13:45:33,919 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-10 13:45:33,920 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-10 13:45:33,940 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=10820)
+2024-12-10 13:45:33,941 - save_images - INFO - Processo cam1 finalizado
+2024-12-10 13:45:33,956 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=24780)
+2024-12-10 13:45:33,957 - save_images - INFO - Processo cam2 finalizado
+2024-12-10 13:46:19,238 - save_images - INFO - Iniciando processos para câmera cam1
+2024-12-10 13:46:29,883 - save_images - INFO - Memórias compartilhadas conectadas para cam1
+2024-12-10 13:48:59,032 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-10 13:48:59,032 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-10 13:48:59,191 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-10 13:48:59,192 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-10 13:48:59,197 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=17600)
+2024-12-10 13:48:59,197 - save_images - INFO - Processo cam1 finalizado
+2024-12-10 13:48:59,233 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-10 13:48:59,261 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=17600)
+2024-12-10 13:48:59,262 - save_images - INFO - Processo cam1 finalizado
+2024-12-10 13:49:40,703 - save_images - INFO - Iniciando processos para câmera cam1
+2024-12-10 13:49:50,721 - save_images - INFO - Memórias compartilhadas conectadas para cam1
+2024-12-10 13:52:08,947 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-10 13:52:08,948 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-10 13:52:09,103 - save_images - INFO - Processo cam1 finalizado
+2024-12-10 13:52:09,117 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-10 13:52:09,137 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=28708)
+2024-12-10 13:52:09,138 - save_images - INFO - Processo cam1 finalizado
+2024-12-10 13:52:18,324 - save_images - INFO - Iniciando processos para câmera cam1
+2024-12-10 13:52:28,347 - save_images - INFO - Memórias compartilhadas conectadas para cam1
+2024-12-10 13:53:53,157 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-10 13:53:53,157 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-10 13:53:53,167 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-10 13:53:53,167 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-10 13:53:53,176 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=27588)
+2024-12-10 13:53:53,177 - save_images - INFO - Processo cam1 finalizado
+2024-12-10 13:53:53,204 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-10 13:53:53,205 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-10 13:53:53,214 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=27588)
+2024-12-10 13:53:53,215 - save_images - INFO - Processo cam1 finalizado
+2024-12-10 13:53:53,215 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-10 13:53:53,222 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=27588)
+2024-12-10 13:53:53,223 - save_images - INFO - Processo cam1 finalizado
+2024-12-10 13:53:53,332 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2024-12-10 13:53:53,333 - save_images - INFO - Iniciando limpeza dos recursos...
+2024-12-10 13:53:53,336 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=27588)
+2024-12-10 13:53:53,337 - save_images - INFO - Processo cam1 finalizado
+2025-01-27 11:32:19,392 - save_images - INFO - Iniciando processos para câmera cam1
+2025-01-27 11:32:43,139 - save_images - ERROR - Timeout ao conectar às memórias compartilhadas para cam1
+2025-01-27 11:32:43,139 - save_images - INFO - Iniciando processos para câmera cam2
+2025-01-27 11:33:03,158 - save_images - ERROR - Timeout ao conectar às memórias compartilhadas para cam2
+2025-01-27 11:39:01,528 - save_images - INFO - Sinal 2 recebido. Iniciando limpeza...
+2025-01-27 11:39:01,528 - save_images - INFO - Iniciando limpeza dos recursos...
+2025-01-27 11:39:01,532 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=19948)
+2025-01-27 11:39:01,532 - save_images - INFO - Processo cam1 finalizado
+2025-01-27 11:39:01,536 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=26768)
+2025-01-27 11:39:01,536 - save_images - INFO - Processo cam2 finalizado
+2025-01-27 11:39:01,599 - save_images - INFO - Iniciando limpeza dos recursos...
+2025-01-27 11:39:01,607 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=19948)
+2025-01-27 11:39:01,607 - save_images - INFO - Processo cam1 finalizado
+2025-01-27 11:39:01,614 - save_images - ERROR - Erro ao finalizar processos filhos: process PID not found (pid=26768)
+2025-01-27 11:39:01,614 - save_images - INFO - Processo cam2 finalizado

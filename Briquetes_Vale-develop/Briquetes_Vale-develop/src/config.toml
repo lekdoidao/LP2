@@ -1,0 +1,21 @@
+output_directory = "data/images"
+web_refresh_rate = 5  # fps para visualização web
+frame_shape = [1080, 1920, 3]  # [altura, largura, canais]
+[cameras]
+    [cameras.cam1]
+    url = "rtsp://172.19.144.63:8080/h264_ulaw.sdp"
+    name = "Câmera 1"
+    save_interval = 10  # segundos entre saves
+    frame_rate = 10
+    retry_interval = 5
+    db_name = "camera_1"
+    conf_briquete_model = 0.5
+
+    [cameras.cam2]
+    url = "0"
+    name = "Câmera 2"
+    save_interval = 10  # segundos entre saves
+    frame_rate = 10
+    retry_interval = 5
+    db_name = "camera_2"
+    conf_briquete_model = 0.5
